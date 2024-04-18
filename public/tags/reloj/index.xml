@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reloj on Una flecha en la rodilla</title>
+    <link>https://mvietri.dev/blog/tags/reloj/</link>
+    <description>Recent content in Reloj on Una flecha en la rodilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
+    <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
+    <copyright>Mauro Vietri (CC BY 4.0)</copyright>
+    <lastBuildDate>Thu, 09 Nov 2023 03:00:00 -0300</lastBuildDate>
+    <atom:link href="https://mvietri.dev/blog/tags/reloj/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relojino</title>
+      <link>https://mvietri.dev/blog/entradas/reloj/texto/</link>
+      <pubDate>Thu, 09 Nov 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
+      <guid>https://mvietri.dev/blog/entradas/reloj/texto/</guid>
+      <description>Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.&#xA;Así que revolviendo el jonca de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.&#xA;La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.&#xA;Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.</description>
+      <content:encoded><![CDATA[<p>Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.</p>
+<p>Así que revolviendo el <em>jonca</em> de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.</p>
+<p>La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.</p>
+<p><img alt="Reloj" src="../reloj.jpg" title="Reloj"></p>
+<p>Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.</p>
+<p>El código está en mi <a href="https://github.com/mvietri/clock">github</a>.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

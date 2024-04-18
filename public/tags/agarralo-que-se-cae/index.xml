@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agarralo Que Se Cae on Una flecha en la rodilla</title>
+    <link>https://mvietri.dev/blog/tags/agarralo-que-se-cae/</link>
+    <description>Recent content in Agarralo Que Se Cae on Una flecha en la rodilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
+    <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
+    <copyright>Mauro Vietri (CC BY 4.0)</copyright>
+    <lastBuildDate>Thu, 18 Jan 2024 03:00:00 -0300</lastBuildDate>
+    <atom:link href="https://mvietri.dev/blog/tags/agarralo-que-se-cae/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boludeces.gcode</title>
+      <link>https://mvietri.dev/blog/entradas/boludeces.gcode/texto/</link>
+      <pubDate>Thu, 18 Jan 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
+      <guid>https://mvietri.dev/blog/entradas/boludeces.gcode/texto/</guid>
+      <description>Como le estoy agarrando la mano a esto de imprimir en 3D. Todo un mundo nuevo con los slicers, el gcode, esto y lo otro. Pero voy bien, estoy conociendo los límites de la ender, el que se puede hacer y el que no.&#xA;Desde que tengo la impresora, imprimí cosas para el baño, soportes para los cables atrás de la tele, stands de controles de joystics, portalapiz, porta usb y memorias sd.</description>
+      <content:encoded><![CDATA[<p>Como le estoy agarrando la mano a esto de imprimir en 3D. Todo un mundo nuevo con los slicers, el gcode, esto y lo otro. Pero voy bien, estoy conociendo los límites de la ender, el que se puede hacer y el que no.</p>
+<p>Desde que tengo la impresora, imprimí cosas para el baño, soportes para los cables atrás de la tele, stands de controles de joystics, portalapiz, porta usb y memorias sd. Imprimí un <em>coso</em> para apoyar la laptop totalmente al pedo pero ahí está. Imprimí figurines e imprimí carcasas para todos mis SBCs. Imprimí llaveros y colgantes, posavasos, stand para el celular y para los auris, imprimí rejillas para la bacha de la cocina, etc, etc.</p>
+<p>Imprimí.</p>
+<p>Me metí en el mundo del gcode. Un archivo de texto que mueve motores paso a paso y hace que la impresora escupa objetos. <strong>Fascinante</strong>.</p>
+<p>Luego, empecé a diseñar, editando objetos hechos por otras personas. Lo próximo: aprender Blender o algún programa de esos.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

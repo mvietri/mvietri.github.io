@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Impresion 3d on Una flecha en la rodilla</title>
+    <link>https://mvietri.dev/blog/tags/impresion-3d/</link>
+    <description>Recent content in Impresion 3d on Una flecha en la rodilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
+    <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
+    <copyright>Mauro Vietri (CC BY 4.0)</copyright>
+    <lastBuildDate>Tue, 09 May 2023 03:00:00 -0300</lastBuildDate>
+    <atom:link href="https://mvietri.dev/blog/tags/impresion-3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ender 3 Neo</title>
+      <link>https://mvietri.dev/blog/entradas/ender3/texto/</link>
+      <pubDate>Tue, 09 May 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
+      <guid>https://mvietri.dev/blog/entradas/ender3/texto/</guid>
+      <description>Este 2023 viene repuntando. Hoy llegó mi primera impresora 3d, una Ender 3 Neo, despúes de meses en duda de si comprarla o no.&#xA;Si hay algo bueno que saqué de mi trauma de esperar para comprar algo, es que la versión Neo es la Pro con todas las mejoras que se fueron dando, incluyendo cosas críticas como piezas que ahora son de metal y el auto nivelador ya de fábrica.</description>
+      <content:encoded><![CDATA[<p>Este 2023 viene repuntando. Hoy llegó mi primera impresora 3d, una Ender 3 Neo, despúes de meses en duda de si comprarla o no.</p>
+<p><img alt="Ender 3 Neo" src="../ender3caja.jpg" title="Ender 3 Neo"></p>
+<p>Si hay algo bueno que saqué de mi trauma de esperar para comprar algo, es que la versión Neo es la Pro con todas las mejoras que se fueron dando, incluyendo cosas críticas como piezas que ahora son de metal y el auto nivelador ya de fábrica.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

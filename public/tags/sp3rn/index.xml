@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SP3RN on Una flecha en la rodilla</title>
+    <link>https://mvietri.dev/blog/tags/sp3rn/</link>
+    <description>Recent content in SP3RN on Una flecha en la rodilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
+    <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
+    <copyright>Mauro Vietri (CC BY 4.0)</copyright>
+    <lastBuildDate>Tue, 19 Sep 2023 03:00:00 -0300</lastBuildDate>
+    <atom:link href="https://mvietri.dev/blog/tags/sp3rn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Saint Maximilian Maria Kolbe Patron for All Hams</title>
+      <link>https://mvietri.dev/blog/entradas/sp3rn/texto/</link>
+      <pubDate>Tue, 19 Sep 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
+      <guid>https://mvietri.dev/blog/entradas/sp3rn/texto/</guid>
+      <description>Saint Maximilian Maria Kolbe en QRZ</description>
+      <content:encoded><![CDATA[
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/QTe3Bw9xLIU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p><a href="https://www.qrz.com/db/sp3rn" title="SP3RN en QRZ.com">Saint Maximilian Maria Kolbe en QRZ</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

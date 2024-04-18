@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Camiseta on Una flecha en la rodilla</title>
+    <link>https://mvietri.dev/blog/tags/camiseta/</link>
+    <description>Recent content in Camiseta on Una flecha en la rodilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
+    <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
+    <copyright>Mauro Vietri (CC BY 4.0)</copyright>
+    <lastBuildDate>Fri, 16 Jun 2023 03:00:00 -0300</lastBuildDate>
+    <atom:link href="https://mvietri.dev/blog/tags/camiseta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ham</title>
+      <link>https://mvietri.dev/blog/entradas/ham/texto/</link>
+      <pubDate>Fri, 16 Jun 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
+      <guid>https://mvietri.dev/blog/entradas/ham/texto/</guid>
+      <description>Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la LU1DAR. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).&#xA;Ahora si puedo usar mis baofengs en la legalidad!&#xA;Cómo si fuera poco, a la tarde hice mi primer contacto en HF!</description>
+      <content:encoded><![CDATA[<p>Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la <a href="https://www.qrz.com/db/lu1dar" title="LU1DAR en QRZ.com">LU1DAR</a>. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).</p>
+<p><img alt="Baofeng" src="../feng.png" title="Ba-o-feng"></p>
+<p>Ahora si puedo usar mis baofengs en la legalidad!</p>
+<p>Cómo si fuera poco, a la tarde hice mi primer contacto en HF! Estoy seguro que nuevas historias van a surgir de todo esto. Esto abre tantos caminos que no sé por donde empezar.</p>
+<p>73!</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

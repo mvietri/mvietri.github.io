@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Actualizacion on Una flecha en la rodilla</title>
+    <link>https://mvietri.dev/blog/tags/actualizacion/</link>
+    <description>Recent content in Actualizacion on Una flecha en la rodilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
+    <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
+    <copyright>Mauro Vietri (CC BY 4.0)</copyright>
+    <lastBuildDate>Fri, 15 Mar 2024 03:00:00 -0300</lastBuildDate>
+    <atom:link href="https://mvietri.dev/blog/tags/actualizacion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Te llegó la hora, Ender 3</title>
+      <link>https://mvietri.dev/blog/entradas/mejoras_ender3/texto/</link>
+      <pubDate>Fri, 15 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
+      <guid>https://mvietri.dev/blog/entradas/mejoras_ender3/texto/</guid>
+      <description>Ya pasó mucha agua debajo del puente y finalmente llegó el día de hacerle un mantenimiento a la impresora 3D. Busqué en internet qué mejoras hay para la impresora, y algo que me gusta de este modelo es que es una de las impresoras de código abierto más vendidas, por lo que hay mods y trucos por toda la web.&#xA;Así que manos a la obra, imprimir varias mejor que fui recolectando y de paso, hacemos un mantenimiento general.</description>
+      <content:encoded><![CDATA[<p>Ya pasó mucha agua debajo del puente y finalmente llegó el día de hacerle un mantenimiento a la impresora 3D. Busqué en internet qué mejoras hay para la impresora, y algo que me gusta de este modelo es que es una de las impresoras de código abierto más vendidas, por lo que hay mods y trucos por toda la web.</p>
+<p>Así que manos a la obra, imprimir varias mejor que fui recolectando y de paso, hacemos un mantenimiento general.</p>
+<p>Listado de algunos mods que imprimí y coloqué:</p>
+<ul>
+<li><a href="https://www.thingiverse.com/thing:4158561">https://www.thingiverse.com/thing:4158561</a></li>
+<li><a href="https://www.thingiverse.com/thing:4716051">https://www.thingiverse.com/thing:4716051</a></li>
+<li><a href="https://www.thingiverse.com/thing:3176144">https://www.thingiverse.com/thing:3176144</a></li>
+<li><a href="https://www.thingiverse.com/thing:3379068">https://www.thingiverse.com/thing:3379068</a></li>
+<li><a href="https://www.thingiverse.com/thing:3703510">https://www.thingiverse.com/thing:3703510</a></li>
+<li><a href="https://www.thingiverse.com/thing:3289956">https://www.thingiverse.com/thing:3289956</a></li>
+<li><a href="https://www.thingiverse.com/thing:3757210">https://www.thingiverse.com/thing:3757210</a></li>
+<li><a href="https://www.thingiverse.com/thing:3179667">https://www.thingiverse.com/thing:3179667</a></li>
+<li><a href="https://www.printables.com/model/536594-ender-3-neo-screen-cover">https://www.printables.com/model/536594-ender-3-neo-screen-cover</a></li>
+<li><a href="https://www.thingiverse.com/thing:3209211">https://www.thingiverse.com/thing:3209211</a></li>
+<li><a href="https://www.thingiverse.com/thing:3302814">https://www.thingiverse.com/thing:3302814</a></li>
+</ul>
+<p><img alt="Ender upgradeada" src="../ender_terminada.png" title="Ender upgradeada"></p>
+<blockquote>
+<p>Todos son practicamente <em>plug &amp; play</em> salvo la barra led que llevó su trabajito aparte.
+Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA azul de Grilon3 para darle un <em>acento</em> a la ender.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

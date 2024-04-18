@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Uribelarrea on Una flecha en la rodilla</title>
+    <link>https://mvietri.dev/blog/tags/uribelarrea/</link>
+    <description>Recent content in Uribelarrea on Una flecha en la rodilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
+    <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
+    <copyright>Mauro Vietri (CC BY 4.0)</copyright>
+    <lastBuildDate>Thu, 22 Dec 2022 03:00:00 -0300</lastBuildDate>
+    <atom:link href="https://mvietri.dev/blog/tags/uribelarrea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feliz Navidad</title>
+      <link>https://mvietri.dev/blog/entradas/navidad1/texto/</link>
+      <pubDate>Thu, 22 Dec 2022 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
+      <guid>https://mvietri.dev/blog/entradas/navidad1/texto/</guid>
+      <description></description>
+      <content:encoded><![CDATA[<p><img alt="Navidad Uribelarrea" src="../navidad.jpg" title="Navidad Uribelarrea"></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Playstation on Una flecha en la rodilla</title>
+    <link>https://mvietri.dev/blog/tags/playstation/</link>
+    <description>Recent content in Playstation on Una flecha en la rodilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
+    <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
+    <copyright>Mauro Vietri (CC BY 4.0)</copyright>
+    <lastBuildDate>Sat, 10 Jun 2023 03:00:00 -0300</lastBuildDate>
+    <atom:link href="https://mvietri.dev/blog/tags/playstation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La PS Vita que no me deja dormir</title>
+      <link>https://mvietri.dev/blog/entradas/vita/texto/</link>
+      <pubDate>Sat, 10 Jun 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
+      <guid>https://mvietri.dev/blog/entradas/vita/texto/</guid>
+      <description>Algún. Maldito. Día.</description>
+      <content:encoded><![CDATA[<p><img alt="Vita 2000 celeste" src="../vita_celeste.jpg" title="Vita 2000 celeste"></p>
+<p><em>Algún. Maldito. Día.</em></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

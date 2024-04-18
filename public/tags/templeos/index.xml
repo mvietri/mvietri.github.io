@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TempleOS on Una flecha en la rodilla</title>
+    <link>https://mvietri.dev/blog/tags/templeos/</link>
+    <description>Recent content in TempleOS on Una flecha en la rodilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
+    <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
+    <copyright>Mauro Vietri (CC BY 4.0)</copyright>
+    <lastBuildDate>Thu, 18 Apr 2024 03:00:00 -0300</lastBuildDate>
+    <atom:link href="https://mvietri.dev/blog/tags/templeos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El genio esquizofrénico</title>
+      <link>https://mvietri.dev/blog/entradas/terry/texto/</link>
+      <pubDate>Thu, 18 Apr 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
+      <guid>https://mvietri.dev/blog/entradas/terry/texto/</guid>
+      <description>Ir al sitio de TempleOS</description>
+      <content:encoded><![CDATA[
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/YMUhbIAA9-8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p><a href="https://templeos.org/" title="TempleOS">Ir al sitio de TempleOS</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
