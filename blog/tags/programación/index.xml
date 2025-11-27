@@ -22,7 +22,7 @@
 <p>La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.</p>
 <p><img src="../reloj.jpg" alt="Reloj" title="Reloj"></p>
 <p>Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.</p>
-<p>El código está en mi <a href="https://github.com/mvietri/clock">github</a>.</p>
+<p>El código está en mi <a href="https://github.com/mvietri/clock" target="_blank" >github</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -30,8 +30,8 @@
       <link>https://mvietri.dev/blog/entradas/baofeng/texto/</link>
       <pubDate>Thu, 22 Sep 2022 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/baofeng/texto/</guid>
-      <description>&lt;p&gt;Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con &lt;a href=&#34;https://chirpmyradio.com/projects/chirp/wiki/Home&#34;&gt;CHIRP&lt;/a&gt; usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).&lt;/p&gt;&#xA;&lt;p&gt;Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con <a href="https://chirpmyradio.com/projects/chirp/wiki/Home">CHIRP</a> usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.</p>
+      <description>&lt;p&gt;Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con &lt;a href=&#34;https://chirpmyradio.com/projects/chirp/wiki/Home&#34; target=&#34;_blank&#34; &gt;CHIRP&lt;/a&gt; usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).&lt;/p&gt;&#xA;&lt;p&gt;Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con <a href="https://chirpmyradio.com/projects/chirp/wiki/Home" target="_blank" >CHIRP</a> usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.</p>
 <blockquote>
 <p>Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).</p>
 <p>Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)</p>

@@ -22,7 +22,7 @@
 <p>La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.</p>
 <p><img src="../reloj.jpg" alt="Reloj" title="Reloj"></p>
 <p>Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.</p>
-<p>El código está en mi <a href="https://github.com/mvietri/clock">github</a>.</p>
+<p>El código está en mi <a href="https://github.com/mvietri/clock" target="_blank" >github</a>.</p>
 ]]></content:encoded>
     </item>
   </channel>

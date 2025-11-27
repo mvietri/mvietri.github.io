@@ -49,7 +49,7 @@
 <hr>
 <ol>
 <li id="fn:1">
-<p><a href="https://codeberg.org/TheCoffeMaker/shm/src/branch/main/README.md">https://codeberg.org/TheCoffeMaker/shm/src/branch/main/README.md</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p><a href="https://codeberg.org/TheCoffeMaker/shm/src/branch/main/README.md" target="_blank" >https://codeberg.org/TheCoffeMaker/shm/src/branch/main/README.md</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </div>
@@ -69,12 +69,12 @@
       <link>https://mvietri.dev/blog/entradas/terry/texto/</link>
       <pubDate>Thu, 18 Apr 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/terry/texto/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/YMUhbIAA9-8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://templeos.org/&#34; title=&#34;TempleOS&#34;&gt;Ir al sitio de TempleOS&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/YMUhbIAA9-8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://templeos.org/&#34; title=&#34;TempleOS&#34; target=&#34;_blank&#34; &gt;Ir al sitio de TempleOS&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/YMUhbIAA9-8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
     </div>
 
-<p><a href="https://templeos.org/" title="TempleOS">Ir al sitio de TempleOS</a></p>
+<p><a href="https://templeos.org/" title="TempleOS" target="_blank" >Ir al sitio de TempleOS</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -86,7 +86,7 @@
       <content:encoded><![CDATA[<p>Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.</p>
 <blockquote>
 <p>El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía. La primera comunicación radiotelegráfica del mundo desde la Antártida también fue un logro argentino.</p>
-<p><em>extracto de la <a href="https://daa.faa.mil.ar/la-radio-en-la-antartida.html">dirección de asuntos antárticos</a></em></p>
+<p><em>extracto de la <a href="https://daa.faa.mil.ar/la-radio-en-la-antartida.html" target="_blank" >dirección de asuntos antárticos</a></em></p>
 </blockquote>
 <p><img src="../orcadas.png" alt="primera transmisión telegŕafica orcadas" title="primera transmisión telegŕafica orcadas"></p>
 <p>Si bien las condiciones no fueron las mejores, logré hacer contacto con varias estaciones. Todo un logro personal podría decir y estuvo bueno para agarrarle más la mano.</p>
@@ -110,11 +110,11 @@
       <content:encoded><![CDATA[<blockquote>
 <p>Pwnagotchi es una &ldquo;IA&rdquo; basada en A2C impulsada por Bettercap y que se ejecuta en una Raspberry Pi Zero W que aprende de su entorno WiFi circundante para maximizar el material clave WPA descifrable que captura (ya sea mediante rastreo pasivo o realizando ataques de desautenticación y asociación). Este material se recopila en disco como archivos PCAP que contienen cualquier forma de protocolo de enlace admitido por hashcat, incluidos protocolos de enlace WPA completos y medios, así como PMKID.</p>
 </blockquote>
-<p>Hace unos meses había leído sobre <a href="https://pwnagotchi.ai/">Pwnagotchi</a>, un dispositivo <em>casero</em> hecho con un raspberry y -opcional- una pantalla, generalmente de tinta electrónica.</p>
+<p>Hace unos meses había leído sobre <a href="https://pwnagotchi.ai/" target="_blank" >Pwnagotchi</a>, un dispositivo <em>casero</em> hecho con un raspberry y -opcional- una pantalla, generalmente de tinta electrónica.</p>
 <p>El amigo usa el adaptador de WiFi del raspberry para capturar los paquetes que intercambian los dispositivos con el enrutador. Dentro de esos paquetes está la clave que, dependiendo del protocolo de seguridad, es obtenible fácilmente o mediante fuerza bruta.</p>
 <p>Pwnagotchi se &lsquo;alimenta&rsquo; de redes inalámbricas a nuestro alrededor, siendo así que se pone triste mediante una serie de <em>caras</em> si no hay redes nuevas. Algo curioso y divertido a la vez. La persona que empezó esto dijo que si le ponia una cara, la gente lo iba a querer más.</p>
 <blockquote>
-<p>Si bien la página oficial es pwnagotchi.ai, está <a href="https://pwnagotchi.org/">pwnagotchi.org</a> que tiene información más actualizada asi como imágenes para flashear con modificaciones y soporte para nuevas pantalla/raspberries.</p>
+<p>Si bien la página oficial es pwnagotchi.ai, está <a href="https://pwnagotchi.org/" target="_blank" >pwnagotchi.org</a> que tiene información más actualizada asi como imágenes para flashear con modificaciones y soporte para nuevas pantalla/raspberries.</p>
 </blockquote>
 <p>En fin, ninguna cara simpática puede ocultar la misión real del tipo, robar la mayor cantidad de <em>handshakes</em> que pueda. Soporta unos agregados que permiten subir los archivos <em>.pcap</em> directamente a varios sitios que, en un plan gratis, intentan las contraseñas más comunes, pero la idea es que pagues.</p>
 <p><img src="../furbino.jpg" alt="Furbino" title="Furbino"></p>
@@ -132,17 +132,17 @@
 <p>Así que manos a la obra, imprimir varias mejor que fui recolectando y de paso, hacemos un mantenimiento general.</p>
 <p>Listado de algunos mods que imprimí y coloqué:</p>
 <ul>
-<li><a href="https://www.thingiverse.com/thing:4158561">https://www.thingiverse.com/thing:4158561</a></li>
-<li><a href="https://www.thingiverse.com/thing:4716051">https://www.thingiverse.com/thing:4716051</a></li>
-<li><a href="https://www.thingiverse.com/thing:3176144">https://www.thingiverse.com/thing:3176144</a></li>
-<li><a href="https://www.thingiverse.com/thing:3379068">https://www.thingiverse.com/thing:3379068</a></li>
-<li><a href="https://www.thingiverse.com/thing:3703510">https://www.thingiverse.com/thing:3703510</a></li>
-<li><a href="https://www.thingiverse.com/thing:3289956">https://www.thingiverse.com/thing:3289956</a></li>
-<li><a href="https://www.thingiverse.com/thing:3757210">https://www.thingiverse.com/thing:3757210</a></li>
-<li><a href="https://www.thingiverse.com/thing:3179667">https://www.thingiverse.com/thing:3179667</a></li>
-<li><a href="https://www.printables.com/model/536594-ender-3-neo-screen-cover">https://www.printables.com/model/536594-ender-3-neo-screen-cover</a></li>
-<li><a href="https://www.thingiverse.com/thing:3209211">https://www.thingiverse.com/thing:3209211</a></li>
-<li><a href="https://www.thingiverse.com/thing:3302814">https://www.thingiverse.com/thing:3302814</a></li>
+<li><a href="https://www.thingiverse.com/thing:4158561" target="_blank" >https://www.thingiverse.com/thing:4158561</a></li>
+<li><a href="https://www.thingiverse.com/thing:4716051" target="_blank" >https://www.thingiverse.com/thing:4716051</a></li>
+<li><a href="https://www.thingiverse.com/thing:3176144" target="_blank" >https://www.thingiverse.com/thing:3176144</a></li>
+<li><a href="https://www.thingiverse.com/thing:3379068" target="_blank" >https://www.thingiverse.com/thing:3379068</a></li>
+<li><a href="https://www.thingiverse.com/thing:3703510" target="_blank" >https://www.thingiverse.com/thing:3703510</a></li>
+<li><a href="https://www.thingiverse.com/thing:3289956" target="_blank" >https://www.thingiverse.com/thing:3289956</a></li>
+<li><a href="https://www.thingiverse.com/thing:3757210" target="_blank" >https://www.thingiverse.com/thing:3757210</a></li>
+<li><a href="https://www.thingiverse.com/thing:3179667" target="_blank" >https://www.thingiverse.com/thing:3179667</a></li>
+<li><a href="https://www.printables.com/model/536594-ender-3-neo-screen-cover" target="_blank" >https://www.printables.com/model/536594-ender-3-neo-screen-cover</a></li>
+<li><a href="https://www.thingiverse.com/thing:3209211" target="_blank" >https://www.thingiverse.com/thing:3209211</a></li>
+<li><a href="https://www.thingiverse.com/thing:3302814" target="_blank" >https://www.thingiverse.com/thing:3302814</a></li>
 </ul>
 <p><img src="../ender_terminada.png" alt="Ender upgradeada" title="Ender upgradeada"></p>
 <blockquote>
@@ -160,7 +160,7 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <content:encoded><![CDATA[<p>Tenía un par de pilas 18650 tiradas en el <em>jonca</em> de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.</p>
 <p>Estuve mirando varias opciones, desde hacer un PCB propio con regulares y <em>coso</em> pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.</p>
 <p>Buscando encontré estos <em>shields</em> que basicamente tienen toda la solución que andaba buscando. Salida USB de 5v con una sola pila mediante un elevador de tensión, además, tiene salidas de 3v y permite cargar la pila usando 5v via un conector micro USB.</p>
-<p>Existen <em>shields</em> de 2 o más pilas pero por un tema de tamaño preferí ir con el de una sola pila. <a href="https://www.thingiverse.com/thing:5242392">La carcasa</a> la imprimí en 2 colores.</p>
+<p>Existen <em>shields</em> de 2 o más pilas pero por un tema de tamaño preferí ir con el de una sola pila. <a href="https://www.thingiverse.com/thing:5242392" target="_blank" >La carcasa</a> la imprimí en 2 colores.</p>
 <p><img src="../powerbank2.jpg" alt="18650 shield" title="Shield 18650 en funcionamiento"></p>
 <p>Súper conforme con el rendimiento tanto en carga como descarga. No soporta carga rápida ni nada, las especificaciones dicen que soporta hasta 2 amperes de salida a 5v (10w) y 1 ampere de salida en la linea de 3v (3w). No probé si es combinable o está fijo por canal.</p>
 <p>Hice dos de estos, uno siempre en la mochila.</p>
@@ -213,7 +213,7 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
 <p>La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.</p>
 <p><img src="../reloj.jpg" alt="Reloj" title="Reloj"></p>
 <p>Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.</p>
-<p>El código está en mi <a href="https://github.com/mvietri/clock">github</a>.</p>
+<p>El código está en mi <a href="https://github.com/mvietri/clock" target="_blank" >github</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -221,12 +221,12 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/sp3rn/texto/</link>
       <pubDate>Tue, 19 Sep 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/sp3rn/texto/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/QTe3Bw9xLIU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.qrz.com/db/sp3rn&#34; title=&#34;SP3RN en QRZ.com&#34;&gt;Saint Maximilian Maria Kolbe en QRZ&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/QTe3Bw9xLIU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.qrz.com/db/sp3rn&#34; title=&#34;SP3RN en QRZ.com&#34; target=&#34;_blank&#34; &gt;Saint Maximilian Maria Kolbe en QRZ&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/QTe3Bw9xLIU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
     </div>
 
-<p><a href="https://www.qrz.com/db/sp3rn" title="SP3RN en QRZ.com">Saint Maximilian Maria Kolbe en QRZ</a></p>
+<p><a href="https://www.qrz.com/db/sp3rn" title="SP3RN en QRZ.com" target="_blank" >Saint Maximilian Maria Kolbe en QRZ</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -234,8 +234,8 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/ham/texto/</link>
       <pubDate>Fri, 16 Jun 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/ham/texto/</guid>
-      <description>&lt;p&gt;Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la &lt;a href=&#34;https://www.qrz.com/db/lu1dar&#34; title=&#34;LU1DAR en QRZ.com&#34;&gt;LU1DAR&lt;/a&gt;. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../feng.png&#34; alt=&#34;Baofeng&#34; title=&#34;Ba-o-feng&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ahora si puedo usar mis baofengs en la legalidad!&lt;/p&gt;&#xA;&lt;p&gt;Cómo si fuera poco, a la tarde hice mi primer contacto en HF! Estoy seguro que nuevas historias van a surgir de todo esto. Esto abre tantos caminos que no sé por donde empezar.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la <a href="https://www.qrz.com/db/lu1dar" title="LU1DAR en QRZ.com">LU1DAR</a>. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).</p>
+      <description>&lt;p&gt;Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la &lt;a href=&#34;https://www.qrz.com/db/lu1dar&#34; title=&#34;LU1DAR en QRZ.com&#34; target=&#34;_blank&#34; &gt;LU1DAR&lt;/a&gt;. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../feng.png&#34; alt=&#34;Baofeng&#34; title=&#34;Ba-o-feng&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ahora si puedo usar mis baofengs en la legalidad!&lt;/p&gt;&#xA;&lt;p&gt;Cómo si fuera poco, a la tarde hice mi primer contacto en HF! Estoy seguro que nuevas historias van a surgir de todo esto. Esto abre tantos caminos que no sé por donde empezar.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la <a href="https://www.qrz.com/db/lu1dar" title="LU1DAR en QRZ.com" target="_blank" >LU1DAR</a>. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).</p>
 <p><img src="../feng.png" alt="Baofeng" title="Ba-o-feng"></p>
 <p>Ahora si puedo usar mis baofengs en la legalidad!</p>
 <p>Cómo si fuera poco, a la tarde hice mi primer contacto en HF! Estoy seguro que nuevas historias van a surgir de todo esto. Esto abre tantos caminos que no sé por donde empezar.</p>
@@ -296,8 +296,8 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/baofeng/texto/</link>
       <pubDate>Thu, 22 Sep 2022 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/baofeng/texto/</guid>
-      <description>&lt;p&gt;Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con &lt;a href=&#34;https://chirpmyradio.com/projects/chirp/wiki/Home&#34;&gt;CHIRP&lt;/a&gt; usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).&lt;/p&gt;&#xA;&lt;p&gt;Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con <a href="https://chirpmyradio.com/projects/chirp/wiki/Home">CHIRP</a> usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.</p>
+      <description>&lt;p&gt;Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con &lt;a href=&#34;https://chirpmyradio.com/projects/chirp/wiki/Home&#34; target=&#34;_blank&#34; &gt;CHIRP&lt;/a&gt; usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).&lt;/p&gt;&#xA;&lt;p&gt;Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con <a href="https://chirpmyradio.com/projects/chirp/wiki/Home" target="_blank" >CHIRP</a> usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.</p>
 <blockquote>
 <p>Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).</p>
 <p>Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)</p>

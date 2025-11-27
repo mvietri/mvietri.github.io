@@ -21,17 +21,17 @@
 <p>Así que manos a la obra, imprimir varias mejor que fui recolectando y de paso, hacemos un mantenimiento general.</p>
 <p>Listado de algunos mods que imprimí y coloqué:</p>
 <ul>
-<li><a href="https://www.thingiverse.com/thing:4158561">https://www.thingiverse.com/thing:4158561</a></li>
-<li><a href="https://www.thingiverse.com/thing:4716051">https://www.thingiverse.com/thing:4716051</a></li>
-<li><a href="https://www.thingiverse.com/thing:3176144">https://www.thingiverse.com/thing:3176144</a></li>
-<li><a href="https://www.thingiverse.com/thing:3379068">https://www.thingiverse.com/thing:3379068</a></li>
-<li><a href="https://www.thingiverse.com/thing:3703510">https://www.thingiverse.com/thing:3703510</a></li>
-<li><a href="https://www.thingiverse.com/thing:3289956">https://www.thingiverse.com/thing:3289956</a></li>
-<li><a href="https://www.thingiverse.com/thing:3757210">https://www.thingiverse.com/thing:3757210</a></li>
-<li><a href="https://www.thingiverse.com/thing:3179667">https://www.thingiverse.com/thing:3179667</a></li>
-<li><a href="https://www.printables.com/model/536594-ender-3-neo-screen-cover">https://www.printables.com/model/536594-ender-3-neo-screen-cover</a></li>
-<li><a href="https://www.thingiverse.com/thing:3209211">https://www.thingiverse.com/thing:3209211</a></li>
-<li><a href="https://www.thingiverse.com/thing:3302814">https://www.thingiverse.com/thing:3302814</a></li>
+<li><a href="https://www.thingiverse.com/thing:4158561" target="_blank" >https://www.thingiverse.com/thing:4158561</a></li>
+<li><a href="https://www.thingiverse.com/thing:4716051" target="_blank" >https://www.thingiverse.com/thing:4716051</a></li>
+<li><a href="https://www.thingiverse.com/thing:3176144" target="_blank" >https://www.thingiverse.com/thing:3176144</a></li>
+<li><a href="https://www.thingiverse.com/thing:3379068" target="_blank" >https://www.thingiverse.com/thing:3379068</a></li>
+<li><a href="https://www.thingiverse.com/thing:3703510" target="_blank" >https://www.thingiverse.com/thing:3703510</a></li>
+<li><a href="https://www.thingiverse.com/thing:3289956" target="_blank" >https://www.thingiverse.com/thing:3289956</a></li>
+<li><a href="https://www.thingiverse.com/thing:3757210" target="_blank" >https://www.thingiverse.com/thing:3757210</a></li>
+<li><a href="https://www.thingiverse.com/thing:3179667" target="_blank" >https://www.thingiverse.com/thing:3179667</a></li>
+<li><a href="https://www.printables.com/model/536594-ender-3-neo-screen-cover" target="_blank" >https://www.printables.com/model/536594-ender-3-neo-screen-cover</a></li>
+<li><a href="https://www.thingiverse.com/thing:3209211" target="_blank" >https://www.thingiverse.com/thing:3209211</a></li>
+<li><a href="https://www.thingiverse.com/thing:3302814" target="_blank" >https://www.thingiverse.com/thing:3302814</a></li>
 </ul>
 <p><img src="../ender_terminada.png" alt="Ender upgradeada" title="Ender upgradeada"></p>
 <blockquote>
@@ -49,7 +49,7 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <content:encoded><![CDATA[<p>Tenía un par de pilas 18650 tiradas en el <em>jonca</em> de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.</p>
 <p>Estuve mirando varias opciones, desde hacer un PCB propio con regulares y <em>coso</em> pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.</p>
 <p>Buscando encontré estos <em>shields</em> que basicamente tienen toda la solución que andaba buscando. Salida USB de 5v con una sola pila mediante un elevador de tensión, además, tiene salidas de 3v y permite cargar la pila usando 5v via un conector micro USB.</p>
-<p>Existen <em>shields</em> de 2 o más pilas pero por un tema de tamaño preferí ir con el de una sola pila. <a href="https://www.thingiverse.com/thing:5242392">La carcasa</a> la imprimí en 2 colores.</p>
+<p>Existen <em>shields</em> de 2 o más pilas pero por un tema de tamaño preferí ir con el de una sola pila. <a href="https://www.thingiverse.com/thing:5242392" target="_blank" >La carcasa</a> la imprimí en 2 colores.</p>
 <p><img src="../powerbank2.jpg" alt="18650 shield" title="Shield 18650 en funcionamiento"></p>
 <p>Súper conforme con el rendimiento tanto en carga como descarga. No soporta carga rápida ni nada, las especificaciones dicen que soporta hasta 2 amperes de salida a 5v (10w) y 1 ampere de salida en la linea de 3v (3w). No probé si es combinable o está fijo por canal.</p>
 <p>Hice dos de estos, uno siempre en la mochila.</p>

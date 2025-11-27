@@ -20,11 +20,11 @@
       <content:encoded><![CDATA[<blockquote>
 <p>Pwnagotchi es una &ldquo;IA&rdquo; basada en A2C impulsada por Bettercap y que se ejecuta en una Raspberry Pi Zero W que aprende de su entorno WiFi circundante para maximizar el material clave WPA descifrable que captura (ya sea mediante rastreo pasivo o realizando ataques de desautenticación y asociación). Este material se recopila en disco como archivos PCAP que contienen cualquier forma de protocolo de enlace admitido por hashcat, incluidos protocolos de enlace WPA completos y medios, así como PMKID.</p>
 </blockquote>
-<p>Hace unos meses había leído sobre <a href="https://pwnagotchi.ai/">Pwnagotchi</a>, un dispositivo <em>casero</em> hecho con un raspberry y -opcional- una pantalla, generalmente de tinta electrónica.</p>
+<p>Hace unos meses había leído sobre <a href="https://pwnagotchi.ai/" target="_blank" >Pwnagotchi</a>, un dispositivo <em>casero</em> hecho con un raspberry y -opcional- una pantalla, generalmente de tinta electrónica.</p>
 <p>El amigo usa el adaptador de WiFi del raspberry para capturar los paquetes que intercambian los dispositivos con el enrutador. Dentro de esos paquetes está la clave que, dependiendo del protocolo de seguridad, es obtenible fácilmente o mediante fuerza bruta.</p>
 <p>Pwnagotchi se &lsquo;alimenta&rsquo; de redes inalámbricas a nuestro alrededor, siendo así que se pone triste mediante una serie de <em>caras</em> si no hay redes nuevas. Algo curioso y divertido a la vez. La persona que empezó esto dijo que si le ponia una cara, la gente lo iba a querer más.</p>
 <blockquote>
-<p>Si bien la página oficial es pwnagotchi.ai, está <a href="https://pwnagotchi.org/">pwnagotchi.org</a> que tiene información más actualizada asi como imágenes para flashear con modificaciones y soporte para nuevas pantalla/raspberries.</p>
+<p>Si bien la página oficial es pwnagotchi.ai, está <a href="https://pwnagotchi.org/" target="_blank" >pwnagotchi.org</a> que tiene información más actualizada asi como imágenes para flashear con modificaciones y soporte para nuevas pantalla/raspberries.</p>
 </blockquote>
 <p>En fin, ninguna cara simpática puede ocultar la misión real del tipo, robar la mayor cantidad de <em>handshakes</em> que pueda. Soporta unos agregados que permiten subir los archivos <em>.pcap</em> directamente a varios sitios que, en un plan gratis, intentan las contraseñas más comunes, pero la idea es que pagues.</p>
 <p><img src="../furbino.jpg" alt="Furbino" title="Furbino"></p>
