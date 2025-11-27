@@ -9,7 +9,7 @@
     <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
     <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
     <copyright>Mauro Vietri (CC BY 4.0)</copyright>
-    <lastBuildDate>Thu, 18 Apr 2024 03:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 14:00:27 -0300</lastBuildDate>
     <atom:link href="https://mvietri.dev/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manifiesto del Selfhosting</title>
@@ -53,6 +53,15 @@
 </li>
 </ol>
 </div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Irma</title>
+      <link>https://mvietri.dev/blog/entradas/irma/irma/</link>
+      <pubDate>Thu, 27 Nov 2025 14:00:27 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
+      <guid>https://mvietri.dev/blog/entradas/irma/irma/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Irma_2017-09-06_1230Z.jpg/250px-Irma_2017-09-06_1230Z.jpg&#34; alt=&#34;Irma&#34;&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Irma_2017-09-06_1230Z.jpg/250px-Irma_2017-09-06_1230Z.jpg" alt="Irma"></p>
 ]]></content:encoded>
     </item>
     <item>
