@@ -16,12 +16,12 @@
       <link>https://mvietri.dev/blog/entradas/powerbank/texto/</link>
       <pubDate>Tue, 20 Feb 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/powerbank/texto/</guid>
-      <description>Tenía un par de pilas 18650 tiradas en el jonca de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.&#xA;Estuve mirando varias opciones, desde hacer un PCB propio con regulares y coso pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.</description>
+      <description>&lt;p&gt;Tenía un par de pilas 18650 tiradas en el &lt;em&gt;jonca&lt;/em&gt; de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.&lt;/p&gt;&#xA;&lt;p&gt;Estuve mirando varias opciones, desde hacer un PCB propio con regulares y &lt;em&gt;coso&lt;/em&gt; pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Tenía un par de pilas 18650 tiradas en el <em>jonca</em> de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.</p>
 <p>Estuve mirando varias opciones, desde hacer un PCB propio con regulares y <em>coso</em> pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.</p>
 <p>Buscando encontré estos <em>shields</em> que basicamente tienen toda la solución que andaba buscando. Salida USB de 5v con una sola pila mediante un elevador de tensión, además, tiene salidas de 3v y permite cargar la pila usando 5v via un conector micro USB.</p>
 <p>Existen <em>shields</em> de 2 o más pilas pero por un tema de tamaño preferí ir con el de una sola pila. <a href="https://www.thingiverse.com/thing:5242392">La carcasa</a> la imprimí en 2 colores.</p>
-<p><img alt="18650 shield" src="../powerbank2.jpg" title="Shield 18650 en funcionamiento"></p>
+<p><img src="../powerbank2.jpg" alt="18650 shield" title="Shield 18650 en funcionamiento"></p>
 <p>Súper conforme con el rendimiento tanto en carga como descarga. No soporta carga rápida ni nada, las especificaciones dicen que soporta hasta 2 amperes de salida a 5v (10w) y 1 ampere de salida en la linea de 3v (3w). No probé si es combinable o está fijo por canal.</p>
 <p>Hice dos de estos, uno siempre en la mochila.</p>
 ]]></content:encoded>

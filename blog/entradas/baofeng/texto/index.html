@@ -9,6 +9,7 @@
 <title>&#39;Cable&#39; de programación para Baofeng | Una flecha en la rodilla</title>
 <meta name="title" content="&#39;Cable&#39; de programación para Baofeng" />
 <meta name="description" content="Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con CHIRP usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.
+
 Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).
 Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)" />
 <meta name="author" content="" />
@@ -20,32 +21,45 @@ Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Ard
 
 
   
-  <meta property="og:title" content="&#39;Cable&#39; de programación para Baofeng" />
-<meta property="og:description" content="Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con CHIRP usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.
+  <meta property="og:url" content="https://mvietri.dev/blog/entradas/baofeng/texto/">
+  <meta property="og:site_name" content="Una flecha en la rodilla">
+  <meta property="og:title" content="&#39;Cable&#39; de programación para Baofeng">
+  <meta property="og:description" content="Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con CHIRP usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.
 Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).
-Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://mvietri.dev/blog/entradas/baofeng/texto/" /><meta property="og:image" content="https://mvietri.dev/blog/images/share.webp" /><meta property="article:section" content="entradas" />
-<meta property="article:published_time" content="2022-09-22T03:00:00-03:00" />
-<meta property="article:modified_time" content="2022-09-22T03:00:00-03:00" /><meta property="og:site_name" content="Bear Cub" />
+Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)">
+  <meta property="og:locale" content="es_AR">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="entradas">
+    <meta property="article:published_time" content="2022-09-22T03:00:00-03:00">
+    <meta property="article:modified_time" content="2022-09-22T03:00:00-03:00">
+    <meta property="article:tag" content="Baofeng">
+    <meta property="article:tag" content="Programación">
+    <meta property="article:tag" content="Usbttl">
+    <meta property="article:tag" content="Serie">
+    <meta property="og:image" content="https://mvietri.dev/blog/images/share.webp">
 
 
   
-  <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://mvietri.dev/blog/images/share.webp" /><meta name="twitter:title" content="&#39;Cable&#39; de programación para Baofeng"/>
-<meta name="twitter:description" content="Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con CHIRP usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://mvietri.dev/blog/images/share.webp">
+  <meta name="twitter:title" content="&#39;Cable&#39; de programación para Baofeng">
+  <meta name="twitter:description" content="Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con CHIRP usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.
 Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).
-Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)"/>
+Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)">
 
 
+  
   
   <meta itemprop="name" content="&#39;Cable&#39; de programación para Baofeng">
-<meta itemprop="description" content="Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con CHIRP usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.
+  <meta itemprop="description" content="Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con CHIRP usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.
 Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).
-Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)"><meta itemprop="datePublished" content="2022-09-22T03:00:00-03:00" />
-<meta itemprop="dateModified" content="2022-09-22T03:00:00-03:00" />
-<meta itemprop="wordCount" content="209"><meta itemprop="image" content="https://mvietri.dev/blog/images/share.webp" />
-<meta itemprop="keywords" content="baofeng,programación,usbttl,serie," />
+Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)">
+  <meta itemprop="datePublished" content="2022-09-22T03:00:00-03:00">
+  <meta itemprop="dateModified" content="2022-09-22T03:00:00-03:00">
+  <meta itemprop="wordCount" content="209">
+  <meta itemprop="image" content="https://mvietri.dev/blog/images/share.webp">
+  <meta itemprop="keywords" content=",">
 
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
@@ -97,12 +111,12 @@ Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Ard
 <p>Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)</p>
 </blockquote>
 <p>El cable es muy básico y comprar uno no tiene mucho sentido salvo que no tengas ni un arduino ni un conversor USB-TTL.</p>
-<p><img alt="Arduino UNO" src="../arduino_serial1.png" title="Conexión serie en arduino"></p>
+<p><img src="../arduino_serial1.png" alt="Arduino UNO" title="Conexión serie en arduino"></p>
 <p>Para el arduino la conexión es sencilla. El arduino (Arduino UNO en este caso) tiene un puerto serie integrado en los pins 0 y 1.</p>
 <blockquote>
 <p>En el caso del Arduino hay que dejar constantemente el pin de reset a tierra para que el arduino no inicie el microcontrolador. Sólo vamos a usar la parte serie de la placa.</p>
 </blockquote>
-<p><img alt="USBTTL" src="../arduino_serial2.jpg" title="Conexión serie por usb ttl"></p>
+<p><img src="../arduino_serial2.jpg" alt="USBTTL" title="Conexión serie por usb ttl"></p>
 <p>Para el caso del adaptador USB-Serie, es todo más directo aún. Se conecta Tierra (GND), Transmisión (TXD) y Recepción (RXD) desde el adaptador al cable armado.</p>
 <blockquote>
 <p>Vale aclaración que en transmisiones serial los conectores van siempre cruzados. RX es el TX del otro dispositivo y TX es el RX.</p>

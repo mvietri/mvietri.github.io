@@ -16,13 +16,13 @@
       <link>https://mvietri.dev/blog/entradas/orcadas/texto/</link>
       <pubDate>Sat, 30 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/orcadas/texto/</guid>
-      <description>Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.&#xA;El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía.</description>
+      <description>&lt;p&gt;Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía. La primera comunicación radiotelegráfica del mundo desde la Antártida también fue un logro argentino.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.</p>
 <blockquote>
 <p>El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía. La primera comunicación radiotelegráfica del mundo desde la Antártida también fue un logro argentino.</p>
 <p><em>extracto de la <a href="https://daa.faa.mil.ar/la-radio-en-la-antartida.html">dirección de asuntos antárticos</a></em></p>
 </blockquote>
-<p><img alt="primera transmisión telegŕafica orcadas" src="../orcadas.png" title="primera transmisión telegŕafica orcadas"></p>
+<p><img src="../orcadas.png" alt="primera transmisión telegŕafica orcadas" title="primera transmisión telegŕafica orcadas"></p>
 <p>Si bien las condiciones no fueron las mejores, logré hacer contacto con varias estaciones. Todo un logro personal podría decir y estuvo bueno para agarrarle más la mano.</p>
 ]]></content:encoded>
     </item>
@@ -31,8 +31,8 @@
       <link>https://mvietri.dev/blog/entradas/navidad2/texto/</link>
       <pubDate>Fri, 22 Dec 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/navidad2/texto/</guid>
-      <description></description>
-      <content:encoded><![CDATA[<p><img alt="Navidad QRV" src="./navidad.jpg" title="Navidad QRV"></p>
+      <description>&lt;p&gt;&lt;img src=&#34;./navidad.jpg&#34; alt=&#34;Navidad QRV&#34; title=&#34;Navidad QRV&#34;&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="./navidad.jpg" alt="Navidad QRV" title="Navidad QRV"></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -40,11 +40,10 @@
       <link>https://mvietri.dev/blog/entradas/sp3rn/texto/</link>
       <pubDate>Tue, 19 Sep 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/sp3rn/texto/</guid>
-      <description>Saint Maximilian Maria Kolbe en QRZ</description>
-      <content:encoded><![CDATA[
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/QTe3Bw9xLIU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/QTe3Bw9xLIU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.qrz.com/db/sp3rn&#34; title=&#34;SP3RN en QRZ.com&#34;&gt;Saint Maximilian Maria Kolbe en QRZ&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/QTe3Bw9xLIU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
 
 <p><a href="https://www.qrz.com/db/sp3rn" title="SP3RN en QRZ.com">Saint Maximilian Maria Kolbe en QRZ</a></p>
 ]]></content:encoded>

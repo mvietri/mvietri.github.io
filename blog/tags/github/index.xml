@@ -16,11 +16,11 @@
       <link>https://mvietri.dev/blog/entradas/reloj/texto/</link>
       <pubDate>Thu, 09 Nov 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/reloj/texto/</guid>
-      <description>Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.&#xA;Así que revolviendo el jonca de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.&#xA;La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.&#xA;Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.</description>
+      <description>&lt;p&gt;Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.&lt;/p&gt;&#xA;&lt;p&gt;Así que revolviendo el &lt;em&gt;jonca&lt;/em&gt; de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.&lt;/p&gt;&#xA;&lt;p&gt;La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../reloj.jpg&#34; alt=&#34;Reloj&#34; title=&#34;Reloj&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.</p>
 <p>Así que revolviendo el <em>jonca</em> de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.</p>
 <p>La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.</p>
-<p><img alt="Reloj" src="../reloj.jpg" title="Reloj"></p>
+<p><img src="../reloj.jpg" alt="Reloj" title="Reloj"></p>
 <p>Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.</p>
 <p>El código está en mi <a href="https://github.com/mvietri/clock">github</a>.</p>
 ]]></content:encoded>

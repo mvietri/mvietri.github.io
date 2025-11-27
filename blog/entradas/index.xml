@@ -16,11 +16,10 @@
       <link>https://mvietri.dev/blog/entradas/terry/texto/</link>
       <pubDate>Thu, 18 Apr 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/terry/texto/</guid>
-      <description>Ir al sitio de TempleOS</description>
-      <content:encoded><![CDATA[
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/YMUhbIAA9-8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/YMUhbIAA9-8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://templeos.org/&#34; title=&#34;TempleOS&#34;&gt;Ir al sitio de TempleOS&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/YMUhbIAA9-8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
 
 <p><a href="https://templeos.org/" title="TempleOS">Ir al sitio de TempleOS</a></p>
 ]]></content:encoded>
@@ -30,13 +29,13 @@
       <link>https://mvietri.dev/blog/entradas/orcadas/texto/</link>
       <pubDate>Sat, 30 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/orcadas/texto/</guid>
-      <description>Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.&#xA;El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía.</description>
+      <description>&lt;p&gt;Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía. La primera comunicación radiotelegráfica del mundo desde la Antártida también fue un logro argentino.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.</p>
 <blockquote>
 <p>El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía. La primera comunicación radiotelegráfica del mundo desde la Antártida también fue un logro argentino.</p>
 <p><em>extracto de la <a href="https://daa.faa.mil.ar/la-radio-en-la-antartida.html">dirección de asuntos antárticos</a></em></p>
 </blockquote>
-<p><img alt="primera transmisión telegŕafica orcadas" src="../orcadas.png" title="primera transmisión telegŕafica orcadas"></p>
+<p><img src="../orcadas.png" alt="primera transmisión telegŕafica orcadas" title="primera transmisión telegŕafica orcadas"></p>
 <p>Si bien las condiciones no fueron las mejores, logré hacer contacto con varias estaciones. Todo un logro personal podría decir y estuvo bueno para agarrarle más la mano.</p>
 ]]></content:encoded>
     </item>
@@ -45,8 +44,8 @@
       <link>https://mvietri.dev/blog/entradas/sdr/texto/</link>
       <pubDate>Fri, 29 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/sdr/texto/</guid>
-      <description></description>
-      <content:encoded><![CDATA[<p><img alt="SDR++" src="../sdr.png" title="SDR++"></p>
+      <description>&lt;p&gt;&lt;img src=&#34;../sdr.png&#34; alt=&#34;SDR&amp;#43;&amp;#43;&#34; title=&#34;SDR&amp;#43;&amp;#43;&#34;&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="../sdr.png" alt="SDR&#43;&#43;" title="SDR&#43;&#43;"></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -54,7 +53,7 @@
       <link>https://mvietri.dev/blog/entradas/pwnagotchi/texto/</link>
       <pubDate>Wed, 20 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/pwnagotchi/texto/</guid>
-      <description>Pwnagotchi es una &amp;ldquo;IA&amp;rdquo; basada en A2C impulsada por Bettercap y que se ejecuta en una Raspberry Pi Zero W que aprende de su entorno WiFi circundante para maximizar el material clave WPA descifrable que captura (ya sea mediante rastreo pasivo o realizando ataques de desautenticación y asociación). Este material se recopila en disco como archivos PCAP que contienen cualquier forma de protocolo de enlace admitido por hashcat, incluidos protocolos de enlace WPA completos y medios, así como PMKID.</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Pwnagotchi es una &amp;ldquo;IA&amp;rdquo; basada en A2C impulsada por Bettercap y que se ejecuta en una Raspberry Pi Zero W que aprende de su entorno WiFi circundante para maximizar el material clave WPA descifrable que captura (ya sea mediante rastreo pasivo o realizando ataques de desautenticación y asociación). Este material se recopila en disco como archivos PCAP que contienen cualquier forma de protocolo de enlace admitido por hashcat, incluidos protocolos de enlace WPA completos y medios, así como PMKID.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<blockquote>
 <p>Pwnagotchi es una &ldquo;IA&rdquo; basada en A2C impulsada por Bettercap y que se ejecuta en una Raspberry Pi Zero W que aprende de su entorno WiFi circundante para maximizar el material clave WPA descifrable que captura (ya sea mediante rastreo pasivo o realizando ataques de desautenticación y asociación). Este material se recopila en disco como archivos PCAP que contienen cualquier forma de protocolo de enlace admitido por hashcat, incluidos protocolos de enlace WPA completos y medios, así como PMKID.</p>
 </blockquote>
@@ -65,7 +64,7 @@
 <p>Si bien la página oficial es pwnagotchi.ai, está <a href="https://pwnagotchi.org/">pwnagotchi.org</a> que tiene información más actualizada asi como imágenes para flashear con modificaciones y soporte para nuevas pantalla/raspberries.</p>
 </blockquote>
 <p>En fin, ninguna cara simpática puede ocultar la misión real del tipo, robar la mayor cantidad de <em>handshakes</em> que pueda. Soporta unos agregados que permiten subir los archivos <em>.pcap</em> directamente a varios sitios que, en un plan gratis, intentan las contraseñas más comunes, pero la idea es que pagues.</p>
-<p><img alt="Furbino" src="../furbino.jpg" title="Furbino"></p>
+<p><img src="../furbino.jpg" alt="Furbino" title="Furbino"></p>
 <p>Si bien el uso del bicho este es cuestionable, es divertido desde el lado técnico. Algo que lleva más materiales que tiempo y despues queda como un adorno como un <em>tamagotchi</em>. Sólo que este si no &lsquo;come&rsquo; redes, no se muere :D.</p>
 <p>Al mío le puse de nombre <code>furbino</code>, que en italiano viene a hacer algo como astuto, pícaro. Tambien es una app de perros o algo así.</p>
 ]]></content:encoded>
@@ -75,7 +74,7 @@
       <link>https://mvietri.dev/blog/entradas/mejoras_ender3/texto/</link>
       <pubDate>Fri, 15 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/mejoras_ender3/texto/</guid>
-      <description>Ya pasó mucha agua debajo del puente y finalmente llegó el día de hacerle un mantenimiento a la impresora 3D. Busqué en internet qué mejoras hay para la impresora, y algo que me gusta de este modelo es que es una de las impresoras de código abierto más vendidas, por lo que hay mods y trucos por toda la web.&#xA;Así que manos a la obra, imprimir varias mejor que fui recolectando y de paso, hacemos un mantenimiento general.</description>
+      <description>&lt;p&gt;Ya pasó mucha agua debajo del puente y finalmente llegó el día de hacerle un mantenimiento a la impresora 3D. Busqué en internet qué mejoras hay para la impresora, y algo que me gusta de este modelo es que es una de las impresoras de código abierto más vendidas, por lo que hay mods y trucos por toda la web.&lt;/p&gt;&#xA;&lt;p&gt;Así que manos a la obra, imprimir varias mejor que fui recolectando y de paso, hacemos un mantenimiento general.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Ya pasó mucha agua debajo del puente y finalmente llegó el día de hacerle un mantenimiento a la impresora 3D. Busqué en internet qué mejoras hay para la impresora, y algo que me gusta de este modelo es que es una de las impresoras de código abierto más vendidas, por lo que hay mods y trucos por toda la web.</p>
 <p>Así que manos a la obra, imprimir varias mejor que fui recolectando y de paso, hacemos un mantenimiento general.</p>
 <p>Listado de algunos mods que imprimí y coloqué:</p>
@@ -92,7 +91,7 @@
 <li><a href="https://www.thingiverse.com/thing:3209211">https://www.thingiverse.com/thing:3209211</a></li>
 <li><a href="https://www.thingiverse.com/thing:3302814">https://www.thingiverse.com/thing:3302814</a></li>
 </ul>
-<p><img alt="Ender upgradeada" src="../ender_terminada.png" title="Ender upgradeada"></p>
+<p><img src="../ender_terminada.png" alt="Ender upgradeada" title="Ender upgradeada"></p>
 <blockquote>
 <p>Todos son practicamente <em>plug &amp; play</em> salvo la barra led que llevó su trabajito aparte.
 Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA azul de Grilon3 para darle un <em>acento</em> a la ender.</p>
@@ -104,12 +103,12 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/powerbank/texto/</link>
       <pubDate>Tue, 20 Feb 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/powerbank/texto/</guid>
-      <description>Tenía un par de pilas 18650 tiradas en el jonca de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.&#xA;Estuve mirando varias opciones, desde hacer un PCB propio con regulares y coso pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.</description>
+      <description>&lt;p&gt;Tenía un par de pilas 18650 tiradas en el &lt;em&gt;jonca&lt;/em&gt; de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.&lt;/p&gt;&#xA;&lt;p&gt;Estuve mirando varias opciones, desde hacer un PCB propio con regulares y &lt;em&gt;coso&lt;/em&gt; pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Tenía un par de pilas 18650 tiradas en el <em>jonca</em> de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.</p>
 <p>Estuve mirando varias opciones, desde hacer un PCB propio con regulares y <em>coso</em> pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.</p>
 <p>Buscando encontré estos <em>shields</em> que basicamente tienen toda la solución que andaba buscando. Salida USB de 5v con una sola pila mediante un elevador de tensión, además, tiene salidas de 3v y permite cargar la pila usando 5v via un conector micro USB.</p>
 <p>Existen <em>shields</em> de 2 o más pilas pero por un tema de tamaño preferí ir con el de una sola pila. <a href="https://www.thingiverse.com/thing:5242392">La carcasa</a> la imprimí en 2 colores.</p>
-<p><img alt="18650 shield" src="../powerbank2.jpg" title="Shield 18650 en funcionamiento"></p>
+<p><img src="../powerbank2.jpg" alt="18650 shield" title="Shield 18650 en funcionamiento"></p>
 <p>Súper conforme con el rendimiento tanto en carga como descarga. No soporta carga rápida ni nada, las especificaciones dicen que soporta hasta 2 amperes de salida a 5v (10w) y 1 ampere de salida en la linea de 3v (3w). No probé si es combinable o está fijo por canal.</p>
 <p>Hice dos de estos, uno siempre en la mochila.</p>
 ]]></content:encoded>
@@ -119,7 +118,7 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/boludeces.gcode/texto/</link>
       <pubDate>Thu, 18 Jan 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/boludeces.gcode/texto/</guid>
-      <description>Como le estoy agarrando la mano a esto de imprimir en 3D. Todo un mundo nuevo con los slicers, el gcode, esto y lo otro. Pero voy bien, estoy conociendo los límites de la ender, el que se puede hacer y el que no.&#xA;Desde que tengo la impresora, imprimí cosas para el baño, soportes para los cables atrás de la tele, stands de controles de joystics, portalapiz, porta usb y memorias sd.</description>
+      <description>&lt;p&gt;Como le estoy agarrando la mano a esto de imprimir en 3D. Todo un mundo nuevo con los slicers, el gcode, esto y lo otro. Pero voy bien, estoy conociendo los límites de la ender, el que se puede hacer y el que no.&lt;/p&gt;&#xA;&lt;p&gt;Desde que tengo la impresora, imprimí cosas para el baño, soportes para los cables atrás de la tele, stands de controles de joystics, portalapiz, porta usb y memorias sd. Imprimí un &lt;em&gt;coso&lt;/em&gt; para apoyar la laptop totalmente al pedo pero ahí está. Imprimí figurines e imprimí carcasas para todos mis SBCs. Imprimí llaveros y colgantes, posavasos, stand para el celular y para los auris, imprimí rejillas para la bacha de la cocina, etc, etc.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Como le estoy agarrando la mano a esto de imprimir en 3D. Todo un mundo nuevo con los slicers, el gcode, esto y lo otro. Pero voy bien, estoy conociendo los límites de la ender, el que se puede hacer y el que no.</p>
 <p>Desde que tengo la impresora, imprimí cosas para el baño, soportes para los cables atrás de la tele, stands de controles de joystics, portalapiz, porta usb y memorias sd. Imprimí un <em>coso</em> para apoyar la laptop totalmente al pedo pero ahí está. Imprimí figurines e imprimí carcasas para todos mis SBCs. Imprimí llaveros y colgantes, posavasos, stand para el celular y para los auris, imprimí rejillas para la bacha de la cocina, etc, etc.</p>
 <p>Imprimí.</p>
@@ -132,8 +131,8 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/navidad2/texto/</link>
       <pubDate>Fri, 22 Dec 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/navidad2/texto/</guid>
-      <description></description>
-      <content:encoded><![CDATA[<p><img alt="Navidad QRV" src="./navidad.jpg" title="Navidad QRV"></p>
+      <description>&lt;p&gt;&lt;img src=&#34;./navidad.jpg&#34; alt=&#34;Navidad QRV&#34; title=&#34;Navidad QRV&#34;&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="./navidad.jpg" alt="Navidad QRV" title="Navidad QRV"></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -141,13 +140,13 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/trio/texto/</link>
       <pubDate>Thu, 30 Nov 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/trio/texto/</guid>
-      <description>Con la compra del Alinco (V/U/BA) ahora son 3. Los Baofeng son un clásico, pero ya con mi propia distintiva quería algo de mejor calidad. En resumen, uso los 3.&#xA;De los Baofeng, el UV5R no le anda el chip de FM (no anda/no tiene) por lo que algun día pasará por el taller para ver si se puede arreglar.&#xA;El UV82 por alguna razón es un toque peor que el UV5R, tiene peor recepción y sensibilidad en cualquiera de las bandas, y, algunas veces, recepciona mejor estando con la antena para bajo.</description>
+      <description>&lt;p&gt;Con la compra del Alinco (V/U/BA) ahora son 3. Los Baofeng son un clásico, pero ya con mi propia distintiva quería algo de mejor calidad. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;En resumen, uso los 3.&lt;/p&gt;&#xA;&lt;p&gt;De los Baofeng, el UV5R no le anda el chip de FM (no anda/no tiene) por lo que algun día pasará por el taller para ver si se puede arreglar.&lt;/p&gt;&#xA;&lt;p&gt;El UV82 por alguna razón es un toque peor que el UV5R, tiene peor recepción y sensibilidad en cualquiera de las bandas, y, algunas veces, recepciona mejor estando con la antena para bajo. En fin, a este le anda el FM.   &amp;lt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Con la compra del Alinco (V/U/BA) ahora son 3. Los Baofeng son un clásico, pero ya con mi propia distintiva quería algo de mejor calidad. <!-- raw HTML omitted --></p>
 <p>En resumen, uso los 3.</p>
 <p>De los Baofeng, el UV5R no le anda el chip de FM (no anda/no tiene) por lo que algun día pasará por el taller para ver si se puede arreglar.</p>
 <p>El UV82 por alguna razón es un toque peor que el UV5R, tiene peor recepción y sensibilidad en cualquiera de las bandas, y, algunas veces, recepciona mejor estando con la antena para bajo. En fin, a este le anda el FM.   &lt;</p>
 <p>Finalmente, el nuevo niño de la cuadra, el DJ VX50, es mucho mejor equipo ya al tacto y, además, tiene recepción en la banda área, algo que me interesa.</p>
-<p><img alt="Trío QRV" src="../trio.jpg" title="Trío QRV"></p>
+<p><img src="../trio.jpg" alt="Trío QRV" title="Trío QRV"></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -155,11 +154,11 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/reloj/texto/</link>
       <pubDate>Thu, 09 Nov 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/reloj/texto/</guid>
-      <description>Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.&#xA;Así que revolviendo el jonca de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.&#xA;La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.&#xA;Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.</description>
+      <description>&lt;p&gt;Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.&lt;/p&gt;&#xA;&lt;p&gt;Así que revolviendo el &lt;em&gt;jonca&lt;/em&gt; de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.&lt;/p&gt;&#xA;&lt;p&gt;La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../reloj.jpg&#34; alt=&#34;Reloj&#34; title=&#34;Reloj&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.</p>
 <p>Así que revolviendo el <em>jonca</em> de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.</p>
 <p>La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.</p>
-<p><img alt="Reloj" src="../reloj.jpg" title="Reloj"></p>
+<p><img src="../reloj.jpg" alt="Reloj" title="Reloj"></p>
 <p>Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.</p>
 <p>El código está en mi <a href="https://github.com/mvietri/clock">github</a>.</p>
 ]]></content:encoded>
@@ -169,11 +168,10 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/sp3rn/texto/</link>
       <pubDate>Tue, 19 Sep 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/sp3rn/texto/</guid>
-      <description>Saint Maximilian Maria Kolbe en QRZ</description>
-      <content:encoded><![CDATA[
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/QTe3Bw9xLIU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/QTe3Bw9xLIU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.qrz.com/db/sp3rn&#34; title=&#34;SP3RN en QRZ.com&#34;&gt;Saint Maximilian Maria Kolbe en QRZ&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/QTe3Bw9xLIU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
 
 <p><a href="https://www.qrz.com/db/sp3rn" title="SP3RN en QRZ.com">Saint Maximilian Maria Kolbe en QRZ</a></p>
 ]]></content:encoded>
@@ -183,9 +181,9 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/ham/texto/</link>
       <pubDate>Fri, 16 Jun 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/ham/texto/</guid>
-      <description>Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la LU1DAR. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).&#xA;Ahora si puedo usar mis baofengs en la legalidad!&#xA;Cómo si fuera poco, a la tarde hice mi primer contacto en HF!</description>
+      <description>&lt;p&gt;Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la &lt;a href=&#34;https://www.qrz.com/db/lu1dar&#34; title=&#34;LU1DAR en QRZ.com&#34;&gt;LU1DAR&lt;/a&gt;. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../feng.png&#34; alt=&#34;Baofeng&#34; title=&#34;Ba-o-feng&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ahora si puedo usar mis baofengs en la legalidad!&lt;/p&gt;&#xA;&lt;p&gt;Cómo si fuera poco, a la tarde hice mi primer contacto en HF! Estoy seguro que nuevas historias van a surgir de todo esto. Esto abre tantos caminos que no sé por donde empezar.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la <a href="https://www.qrz.com/db/lu1dar" title="LU1DAR en QRZ.com">LU1DAR</a>. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).</p>
-<p><img alt="Baofeng" src="../feng.png" title="Ba-o-feng"></p>
+<p><img src="../feng.png" alt="Baofeng" title="Ba-o-feng"></p>
 <p>Ahora si puedo usar mis baofengs en la legalidad!</p>
 <p>Cómo si fuera poco, a la tarde hice mi primer contacto en HF! Estoy seguro que nuevas historias van a surgir de todo esto. Esto abre tantos caminos que no sé por donde empezar.</p>
 <p>73!</p>
@@ -196,8 +194,8 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/vita/texto/</link>
       <pubDate>Sat, 10 Jun 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/vita/texto/</guid>
-      <description>Algún. Maldito. Día.</description>
-      <content:encoded><![CDATA[<p><img alt="Vita 2000 celeste" src="../vita_celeste.jpg" title="Vita 2000 celeste"></p>
+      <description>&lt;p&gt;&lt;img src=&#34;../vita_celeste.jpg&#34; alt=&#34;Vita 2000 celeste&#34; title=&#34;Vita 2000 celeste&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Algún. Maldito. Día.&lt;/em&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="../vita_celeste.jpg" alt="Vita 2000 celeste" title="Vita 2000 celeste"></p>
 <p><em>Algún. Maldito. Día.</em></p>
 ]]></content:encoded>
     </item>
@@ -206,9 +204,9 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/ender3/texto/</link>
       <pubDate>Tue, 09 May 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/ender3/texto/</guid>
-      <description>Este 2023 viene repuntando. Hoy llegó mi primera impresora 3d, una Ender 3 Neo, despúes de meses en duda de si comprarla o no.&#xA;Si hay algo bueno que saqué de mi trauma de esperar para comprar algo, es que la versión Neo es la Pro con todas las mejoras que se fueron dando, incluyendo cosas críticas como piezas que ahora son de metal y el auto nivelador ya de fábrica.</description>
+      <description>&lt;p&gt;Este 2023 viene repuntando. Hoy llegó mi primera impresora 3d, una Ender 3 Neo, despúes de meses en duda de si comprarla o no.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../ender3caja.jpg&#34; alt=&#34;Ender 3 Neo&#34; title=&#34;Ender 3 Neo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Si hay algo bueno que saqué de mi trauma de esperar para comprar algo, es que la versión Neo es la Pro con todas las mejoras que se fueron dando, incluyendo cosas críticas como piezas que ahora son de metal y el auto nivelador ya de fábrica.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Este 2023 viene repuntando. Hoy llegó mi primera impresora 3d, una Ender 3 Neo, despúes de meses en duda de si comprarla o no.</p>
-<p><img alt="Ender 3 Neo" src="../ender3caja.jpg" title="Ender 3 Neo"></p>
+<p><img src="../ender3caja.jpg" alt="Ender 3 Neo" title="Ender 3 Neo"></p>
 <p>Si hay algo bueno que saqué de mi trauma de esperar para comprar algo, es que la versión Neo es la Pro con todas las mejoras que se fueron dando, incluyendo cosas críticas como piezas que ahora son de metal y el auto nivelador ya de fábrica.</p>
 ]]></content:encoded>
     </item>
@@ -217,8 +215,8 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/wario/texto/</link>
       <pubDate>Sat, 22 Apr 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/wario/texto/</guid>
-      <description>Que fruta noble la RG35XX.</description>
-      <content:encoded><![CDATA[<p><img alt="Wario" src="../wario.jpg" title="Wario"></p>
+      <description>&lt;p&gt;&lt;img src=&#34;../wario.jpg&#34; alt=&#34;Wario&#34; title=&#34;Wario&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Que fruta noble la RG35XX.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="../wario.jpg" alt="Wario" title="Wario"></p>
 <p>Que fruta noble la RG35XX.</p>
 ]]></content:encoded>
     </item>
@@ -227,7 +225,7 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/covid/texto/</link>
       <pubDate>Sat, 31 Dec 2022 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/covid/texto/</guid>
-      <description>Algún día, por ahí, capaz, en el futuro vuelva a habilitar los posts sobre esta última etapa que nos afectó a todos. Si bien fueron un par de posts a lo largo de la cuarentena infinita, prefiero quedarme con lo bueno para el blog.</description>
+      <description>&lt;p&gt;Algún día, por ahí, capaz, en el futuro vuelva a habilitar los posts sobre esta última etapa que nos afectó a todos. Si bien fueron un par de posts a lo largo de la cuarentena infinita, prefiero quedarme con lo bueno para el blog.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Algún día, por ahí, capaz, en el futuro vuelva a habilitar los posts sobre esta última etapa que nos afectó a todos. Si bien fueron un par de posts a lo largo de la cuarentena infinita, prefiero quedarme con lo bueno para el blog.</p>
 ]]></content:encoded>
     </item>
@@ -236,8 +234,8 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/navidad1/texto/</link>
       <pubDate>Thu, 22 Dec 2022 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/navidad1/texto/</guid>
-      <description></description>
-      <content:encoded><![CDATA[<p><img alt="Navidad Uribelarrea" src="../navidad.jpg" title="Navidad Uribelarrea"></p>
+      <description>&lt;p&gt;&lt;img src=&#34;../navidad.jpg&#34; alt=&#34;Navidad Uribelarrea&#34; title=&#34;Navidad Uribelarrea&#34;&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="../navidad.jpg" alt="Navidad Uribelarrea" title="Navidad Uribelarrea"></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -245,19 +243,19 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
       <link>https://mvietri.dev/blog/entradas/baofeng/texto/</link>
       <pubDate>Thu, 22 Sep 2022 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/baofeng/texto/</guid>
-      <description>Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con CHIRP usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.&#xA;Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).&#xA;Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)</description>
+      <description>&lt;p&gt;Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con &lt;a href=&#34;https://chirpmyradio.com/projects/chirp/wiki/Home&#34;&gt;CHIRP&lt;/a&gt; usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).&lt;/p&gt;&#xA;&lt;p&gt;Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con <a href="https://chirpmyradio.com/projects/chirp/wiki/Home">CHIRP</a> usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.</p>
 <blockquote>
 <p>Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).</p>
 <p>Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)</p>
 </blockquote>
 <p>El cable es muy básico y comprar uno no tiene mucho sentido salvo que no tengas ni un arduino ni un conversor USB-TTL.</p>
-<p><img alt="Arduino UNO" src="../arduino_serial1.png" title="Conexión serie en arduino"></p>
+<p><img src="../arduino_serial1.png" alt="Arduino UNO" title="Conexión serie en arduino"></p>
 <p>Para el arduino la conexión es sencilla. El arduino (Arduino UNO en este caso) tiene un puerto serie integrado en los pins 0 y 1.</p>
 <blockquote>
 <p>En el caso del Arduino hay que dejar constantemente el pin de reset a tierra para que el arduino no inicie el microcontrolador. Sólo vamos a usar la parte serie de la placa.</p>
 </blockquote>
-<p><img alt="USBTTL" src="../arduino_serial2.jpg" title="Conexión serie por usb ttl"></p>
+<p><img src="../arduino_serial2.jpg" alt="USBTTL" title="Conexión serie por usb ttl"></p>
 <p>Para el caso del adaptador USB-Serie, es todo más directo aún. Se conecta Tierra (GND), Transmisión (TXD) y Recepción (RXD) desde el adaptador al cable armado.</p>
 <blockquote>
 <p>Vale aclaración que en transmisiones serial los conectores van siempre cruzados. RX es el TX del otro dispositivo y TX es el RX.</p>

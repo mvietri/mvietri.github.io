@@ -11,6 +11,7 @@
 <meta name="description" content="Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.
 Así que revolviendo el jonca de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.
 La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.
+
 Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj." />
 <meta name="author" content="" />
 <meta name="keywords" content="arduino,github,reloj,programación," />
@@ -21,35 +22,48 @@ Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero 
 
 
   
-  <meta property="og:title" content="Relojino" />
-<meta property="og:description" content="Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.
+  <meta property="og:url" content="https://mvietri.dev/blog/entradas/reloj/texto/">
+  <meta property="og:site_name" content="Una flecha en la rodilla">
+  <meta property="og:title" content="Relojino">
+  <meta property="og:description" content="Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.
 Así que revolviendo el jonca de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.
 La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.
-Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://mvietri.dev/blog/entradas/reloj/texto/" /><meta property="og:image" content="https://mvietri.dev/blog/images/share.webp" /><meta property="article:section" content="entradas" />
-<meta property="article:published_time" content="2023-11-09T03:00:00-03:00" />
-<meta property="article:modified_time" content="2023-11-09T03:00:00-03:00" /><meta property="og:site_name" content="Bear Cub" />
+Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.">
+  <meta property="og:locale" content="es_AR">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="entradas">
+    <meta property="article:published_time" content="2023-11-09T03:00:00-03:00">
+    <meta property="article:modified_time" content="2023-11-09T03:00:00-03:00">
+    <meta property="article:tag" content="Arduino">
+    <meta property="article:tag" content="Github">
+    <meta property="article:tag" content="Reloj">
+    <meta property="article:tag" content="Programación">
+    <meta property="og:image" content="https://mvietri.dev/blog/images/share.webp">
 
 
   
-  <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://mvietri.dev/blog/images/share.webp" /><meta name="twitter:title" content="Relojino"/>
-<meta name="twitter:description" content="Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://mvietri.dev/blog/images/share.webp">
+  <meta name="twitter:title" content="Relojino">
+  <meta name="twitter:description" content="Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.
 Así que revolviendo el jonca de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.
 La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.
-Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj."/>
+Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.">
 
 
+  
   
   <meta itemprop="name" content="Relojino">
-<meta itemprop="description" content="Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.
+  <meta itemprop="description" content="Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.
 Así que revolviendo el jonca de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.
 La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.
-Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj."><meta itemprop="datePublished" content="2023-11-09T03:00:00-03:00" />
-<meta itemprop="dateModified" content="2023-11-09T03:00:00-03:00" />
-<meta itemprop="wordCount" content="95"><meta itemprop="image" content="https://mvietri.dev/blog/images/share.webp" />
-<meta itemprop="keywords" content="arduino,github,reloj,programación," />
+Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.">
+  <meta itemprop="datePublished" content="2023-11-09T03:00:00-03:00">
+  <meta itemprop="dateModified" content="2023-11-09T03:00:00-03:00">
+  <meta itemprop="wordCount" content="95">
+  <meta itemprop="image" content="https://mvietri.dev/blog/images/share.webp">
+  <meta itemprop="keywords" content=",">
 
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
@@ -98,7 +112,7 @@ Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero 
   <p>Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.</p>
 <p>Así que revolviendo el <em>jonca</em> de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.</p>
 <p>La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.</p>
-<p><img alt="Reloj" src="../reloj.jpg" title="Reloj"></p>
+<p><img src="../reloj.jpg" alt="Reloj" title="Reloj"></p>
 <p>Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.</p>
 <p>El código está en mi <a href="https://github.com/mvietri/clock">github</a>.</p>
 

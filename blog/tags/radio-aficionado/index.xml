@@ -16,13 +16,13 @@
       <link>https://mvietri.dev/blog/entradas/orcadas/texto/</link>
       <pubDate>Sat, 30 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/orcadas/texto/</guid>
-      <description>Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.&#xA;El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía.</description>
+      <description>&lt;p&gt;Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía. La primera comunicación radiotelegráfica del mundo desde la Antártida también fue un logro argentino.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.</p>
 <blockquote>
 <p>El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía. La primera comunicación radiotelegráfica del mundo desde la Antártida también fue un logro argentino.</p>
 <p><em>extracto de la <a href="https://daa.faa.mil.ar/la-radio-en-la-antartida.html">dirección de asuntos antárticos</a></em></p>
 </blockquote>
-<p><img alt="primera transmisión telegŕafica orcadas" src="../orcadas.png" title="primera transmisión telegŕafica orcadas"></p>
+<p><img src="../orcadas.png" alt="primera transmisión telegŕafica orcadas" title="primera transmisión telegŕafica orcadas"></p>
 <p>Si bien las condiciones no fueron las mejores, logré hacer contacto con varias estaciones. Todo un logro personal podría decir y estuvo bueno para agarrarle más la mano.</p>
 ]]></content:encoded>
     </item>
@@ -31,8 +31,8 @@
       <link>https://mvietri.dev/blog/entradas/sdr/texto/</link>
       <pubDate>Fri, 29 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/sdr/texto/</guid>
-      <description></description>
-      <content:encoded><![CDATA[<p><img alt="SDR++" src="../sdr.png" title="SDR++"></p>
+      <description>&lt;p&gt;&lt;img src=&#34;../sdr.png&#34; alt=&#34;SDR&amp;#43;&amp;#43;&#34; title=&#34;SDR&amp;#43;&amp;#43;&#34;&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="../sdr.png" alt="SDR&#43;&#43;" title="SDR&#43;&#43;"></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -40,9 +40,9 @@
       <link>https://mvietri.dev/blog/entradas/ham/texto/</link>
       <pubDate>Fri, 16 Jun 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/ham/texto/</guid>
-      <description>Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la LU1DAR. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).&#xA;Ahora si puedo usar mis baofengs en la legalidad!&#xA;Cómo si fuera poco, a la tarde hice mi primer contacto en HF!</description>
+      <description>&lt;p&gt;Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la &lt;a href=&#34;https://www.qrz.com/db/lu1dar&#34; title=&#34;LU1DAR en QRZ.com&#34;&gt;LU1DAR&lt;/a&gt;. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../feng.png&#34; alt=&#34;Baofeng&#34; title=&#34;Ba-o-feng&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ahora si puedo usar mis baofengs en la legalidad!&lt;/p&gt;&#xA;&lt;p&gt;Cómo si fuera poco, a la tarde hice mi primer contacto en HF! Estoy seguro que nuevas historias van a surgir de todo esto. Esto abre tantos caminos que no sé por donde empezar.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la <a href="https://www.qrz.com/db/lu1dar" title="LU1DAR en QRZ.com">LU1DAR</a>. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).</p>
-<p><img alt="Baofeng" src="../feng.png" title="Ba-o-feng"></p>
+<p><img src="../feng.png" alt="Baofeng" title="Ba-o-feng"></p>
 <p>Ahora si puedo usar mis baofengs en la legalidad!</p>
 <p>Cómo si fuera poco, a la tarde hice mi primer contacto en HF! Estoy seguro que nuevas historias van a surgir de todo esto. Esto abre tantos caminos que no sé por donde empezar.</p>
 <p>73!</p>

@@ -16,13 +16,13 @@
       <link>https://mvietri.dev/blog/entradas/orcadas/texto/</link>
       <pubDate>Sat, 30 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/orcadas/texto/</guid>
-      <description>Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.&#xA;El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía.</description>
+      <description>&lt;p&gt;Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía. La primera comunicación radiotelegráfica del mundo desde la Antártida también fue un logro argentino.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.</p>
 <blockquote>
 <p>El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía. La primera comunicación radiotelegráfica del mundo desde la Antártida también fue un logro argentino.</p>
 <p><em>extracto de la <a href="https://daa.faa.mil.ar/la-radio-en-la-antartida.html">dirección de asuntos antárticos</a></em></p>
 </blockquote>
-<p><img alt="primera transmisión telegŕafica orcadas" src="../orcadas.png" title="primera transmisión telegŕafica orcadas"></p>
+<p><img src="../orcadas.png" alt="primera transmisión telegŕafica orcadas" title="primera transmisión telegŕafica orcadas"></p>
 <p>Si bien las condiciones no fueron las mejores, logré hacer contacto con varias estaciones. Todo un logro personal podría decir y estuvo bueno para agarrarle más la mano.</p>
 ]]></content:encoded>
     </item>
@@ -31,8 +31,8 @@
       <link>https://mvietri.dev/blog/entradas/sdr/texto/</link>
       <pubDate>Fri, 29 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/sdr/texto/</guid>
-      <description></description>
-      <content:encoded><![CDATA[<p><img alt="SDR++" src="../sdr.png" title="SDR++"></p>
+      <description>&lt;p&gt;&lt;img src=&#34;../sdr.png&#34; alt=&#34;SDR&amp;#43;&amp;#43;&#34; title=&#34;SDR&amp;#43;&amp;#43;&#34;&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="../sdr.png" alt="SDR&#43;&#43;" title="SDR&#43;&#43;"></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -40,13 +40,13 @@
       <link>https://mvietri.dev/blog/entradas/trio/texto/</link>
       <pubDate>Thu, 30 Nov 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/trio/texto/</guid>
-      <description>Con la compra del Alinco (V/U/BA) ahora son 3. Los Baofeng son un clásico, pero ya con mi propia distintiva quería algo de mejor calidad. En resumen, uso los 3.&#xA;De los Baofeng, el UV5R no le anda el chip de FM (no anda/no tiene) por lo que algun día pasará por el taller para ver si se puede arreglar.&#xA;El UV82 por alguna razón es un toque peor que el UV5R, tiene peor recepción y sensibilidad en cualquiera de las bandas, y, algunas veces, recepciona mejor estando con la antena para bajo.</description>
+      <description>&lt;p&gt;Con la compra del Alinco (V/U/BA) ahora son 3. Los Baofeng son un clásico, pero ya con mi propia distintiva quería algo de mejor calidad. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;En resumen, uso los 3.&lt;/p&gt;&#xA;&lt;p&gt;De los Baofeng, el UV5R no le anda el chip de FM (no anda/no tiene) por lo que algun día pasará por el taller para ver si se puede arreglar.&lt;/p&gt;&#xA;&lt;p&gt;El UV82 por alguna razón es un toque peor que el UV5R, tiene peor recepción y sensibilidad en cualquiera de las bandas, y, algunas veces, recepciona mejor estando con la antena para bajo. En fin, a este le anda el FM.   &amp;lt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Con la compra del Alinco (V/U/BA) ahora son 3. Los Baofeng son un clásico, pero ya con mi propia distintiva quería algo de mejor calidad. <!-- raw HTML omitted --></p>
 <p>En resumen, uso los 3.</p>
 <p>De los Baofeng, el UV5R no le anda el chip de FM (no anda/no tiene) por lo que algun día pasará por el taller para ver si se puede arreglar.</p>
 <p>El UV82 por alguna razón es un toque peor que el UV5R, tiene peor recepción y sensibilidad en cualquiera de las bandas, y, algunas veces, recepciona mejor estando con la antena para bajo. En fin, a este le anda el FM.   &lt;</p>
 <p>Finalmente, el nuevo niño de la cuadra, el DJ VX50, es mucho mejor equipo ya al tacto y, además, tiene recepción en la banda área, algo que me interesa.</p>
-<p><img alt="Trío QRV" src="../trio.jpg" title="Trío QRV"></p>
+<p><img src="../trio.jpg" alt="Trío QRV" title="Trío QRV"></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -54,11 +54,10 @@
       <link>https://mvietri.dev/blog/entradas/sp3rn/texto/</link>
       <pubDate>Tue, 19 Sep 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/sp3rn/texto/</guid>
-      <description>Saint Maximilian Maria Kolbe en QRZ</description>
-      <content:encoded><![CDATA[
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/QTe3Bw9xLIU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/QTe3Bw9xLIU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.qrz.com/db/sp3rn&#34; title=&#34;SP3RN en QRZ.com&#34;&gt;Saint Maximilian Maria Kolbe en QRZ&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/QTe3Bw9xLIU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
 
 <p><a href="https://www.qrz.com/db/sp3rn" title="SP3RN en QRZ.com">Saint Maximilian Maria Kolbe en QRZ</a></p>
 ]]></content:encoded>
@@ -68,9 +67,9 @@
       <link>https://mvietri.dev/blog/entradas/ham/texto/</link>
       <pubDate>Fri, 16 Jun 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/entradas/ham/texto/</guid>
-      <description>Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la LU1DAR. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).&#xA;Ahora si puedo usar mis baofengs en la legalidad!&#xA;Cómo si fuera poco, a la tarde hice mi primer contacto en HF!</description>
+      <description>&lt;p&gt;Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la &lt;a href=&#34;https://www.qrz.com/db/lu1dar&#34; title=&#34;LU1DAR en QRZ.com&#34;&gt;LU1DAR&lt;/a&gt;. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../feng.png&#34; alt=&#34;Baofeng&#34; title=&#34;Ba-o-feng&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ahora si puedo usar mis baofengs en la legalidad!&lt;/p&gt;&#xA;&lt;p&gt;Cómo si fuera poco, a la tarde hice mi primer contacto en HF! Estoy seguro que nuevas historias van a surgir de todo esto. Esto abre tantos caminos que no sé por donde empezar.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Al fin, despues de la pandemia pude hacer el curso de radio aficionado en la <a href="https://www.qrz.com/db/lu1dar" title="LU1DAR en QRZ.com">LU1DAR</a>. Hoy llegó, hoy vi el mail con una notificación del enacom donde entre toda la jerga dice que soy un radio aficionado, titular de mi distintiva (seguramente compre un dominio y cuelgue todos mis sitios allí).</p>
-<p><img alt="Baofeng" src="../feng.png" title="Ba-o-feng"></p>
+<p><img src="../feng.png" alt="Baofeng" title="Ba-o-feng"></p>
 <p>Ahora si puedo usar mis baofengs en la legalidad!</p>
 <p>Cómo si fuera poco, a la tarde hice mi primer contacto en HF! Estoy seguro que nuevas historias van a surgir de todo esto. Esto abre tantos caminos que no sé por donde empezar.</p>
 <p>73!</p>
