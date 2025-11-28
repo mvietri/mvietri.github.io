@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ia on Una flecha en la rodilla</title>
+    <link>https://mvietri.dev/blog/tags/ia/</link>
+    <description>Recent content in Ia on Una flecha en la rodilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
+    <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
+    <copyright>Mauro Vietri (CC BY 4.0)</copyright>
+    <lastBuildDate>Fri, 28 Nov 2025 07:20:29 -0300</lastBuildDate>
+    <atom:link href="https://mvietri.dev/blog/tags/ia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IA</title>
+      <link>https://mvietri.dev/blog/entradas/ia/texto/</link>
+      <pubDate>Fri, 28 Nov 2025 07:20:29 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
+      <guid>https://mvietri.dev/blog/entradas/ia/texto/</guid>
+      <description>&lt;p&gt;El término de I.A. (Inteligencia Artificial, A.I.) debería estar en los grandes libros de marketing despúes del capítulo, mejor dichos capítulos, dedicado al Yogurt. Al fin y al cabo, es la segunda vez que los marketineros nos venden como algo nuevo, novedoso y que de alguna forma necesitas comer todos los días, algo desabrido, algo que sobraba, algo que iban a tirar.&lt;/p&gt;&#xA;&lt;p&gt;Lo que los mortales mal conocemos como IA, por que de nuevo, es un gran título marketinero, en su gran mayoría son los LLM (Modelos Grandes de Lenguajes) que se basa en una entrada (input), en un pedido (prompt) y una salida (output). Los LLM predicen el texto (el siguiente token al token anterior) que más sentido tenga y así van armando la salida.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>El término de I.A. (Inteligencia Artificial, A.I.) debería estar en los grandes libros de marketing despúes del capítulo, mejor dichos capítulos, dedicado al Yogurt. Al fin y al cabo, es la segunda vez que los marketineros nos venden como algo nuevo, novedoso y que de alguna forma necesitas comer todos los días, algo desabrido, algo que sobraba, algo que iban a tirar.</p>
+<p>Lo que los mortales mal conocemos como IA, por que de nuevo, es un gran título marketinero, en su gran mayoría son los LLM (Modelos Grandes de Lenguajes) que se basa en una entrada (input), en un pedido (prompt) y una salida (output). Los LLM predicen el texto (el siguiente token al token anterior) que más sentido tenga y así van armando la salida.</p>
+<p>Los LLMs están por todos lados, nos lo meten desde que nos levantamos hasta que nos vamos a dormir, en escencias del marketing, es el nuevo Yogurt.</p>
+<p>Ahora bien, ¿es esto nuevo? ¿nos vamos a morir todos? a lo que la IA respondería, no y si, respectivamente. El humano vive en la humanidad y la humanidad se repite y se repite y se repite como estas últimas palabras.</p>
+<p>Cuando se descubrió el fuego: hubo humanos que se quemaron al tratar de dominarlo, otros pensaron que era magia negra y se suicidaron, otros les tenían miedo, otros fascinación, otros lo usaron para cocinar, otros lo usaron para calentar metales y forjar herramientas, otros lo usaron para iluminar -y con ello uno de los hitos más grande la historia, ahora se podía aprovechar el doble de tiempo-, otros lo usaron para matar, otros lo usaron para ganar tiempo, otros lo usaron para delinquir.</p>
+<p>Sin embargo el fuego prevaleció, desde el momento que se hizo popular y se fue domesticando, ninguno de los ejemplos anteriores dejaron de existir, y hoy sin fuego no sobrevivimos ni 8 semanas.</p>
+<p>Cuando la ARPANET con sus e-mails y BBS se hizo pública: hubo humanos que se nunca se interesaron, otros pensaron que era magia negra y se suicidaron, otros les tenían miedo, otros fascinación, otros lo usaron para estudiar, otros lo usaron para crear herramientas, otros para comunicarse, otros lo usaron para matar, otros lo usaron para ganar tiempo, otros lo usaron para delinquir.</p>
+<p>Sin embargo el internet prevaleció, desde el momento que se hizo popular y se fue expandiendo, ninguno de los ejemplos anteriores dejaron de existir, y hoy sin internet no sobrevivimos ni 2 semanas.</p>
+<p>Cuando la IA con sus LLMs falopas alcanzó el punto de comercialización hacia usuarios finales: hubo humanos que se nunca se interesaron, otros pensaron que era magia negra y se suicidaron, otros les tenían miedo, otros fascinación, otros lo usaron para estudiar, otros lo usaron para crear herramientas, otros para comunicarse, otros para tener compañía, otro para saber que siempre tienen razón, otros lo usaron para matar, otros lo usaron para ganar tiempo, otros lo usaron para delinquir.</p>
+<p>Sin embargo la IA prevaleció, desde el momento que se hizo popular y se fue expandiendo, ninguno de los ejemplos anteriores dejaron de existir, y hoy sin IA no sobrevivimos ni 2 días.</p>
+<p>Fuego, Internet, IA, Yogurt, ARPANET, los Sorrentinos. <em>Todo está conectado entre sí</em>.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

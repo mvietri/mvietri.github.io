@@ -1,39 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Vamo&#39; Lo Pibe on Una flecha en la rodilla</title>
+    <title>Vamo Lo&#39; Pibe on Una flecha en la rodilla</title>
     <link>https://mvietri.dev/blog/tags/vamo-lo-pibe/</link>
-    <description>Recent content in Vamo&#39; Lo Pibe on Una flecha en la rodilla</description>
+    <description>Recent content in Vamo Lo&#39; Pibe on Una flecha en la rodilla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-AR</language>
     <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
     <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
     <copyright>Mauro Vietri (CC BY 4.0)</copyright>
-    <lastBuildDate>Thu, 30 Nov 2023 03:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2023 03:00:00 -0300</lastBuildDate>
     <atom:link href="https://mvietri.dev/blog/tags/vamo-lo-pibe/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Trío QRV</title>
-      <link>https://mvietri.dev/blog/entradas/trio/texto/</link>
-      <pubDate>Thu, 30 Nov 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/trio/texto/</guid>
-      <description>&lt;p&gt;Con la compra del Alinco (V/U/BA) ahora son 3. Los Baofeng son un clásico, pero ya con mi propia distintiva quería algo de mejor calidad. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;En resumen, uso los 3.&lt;/p&gt;&#xA;&lt;p&gt;De los Baofeng, el UV5R no le anda el chip de FM (no anda/no tiene) por lo que algun día pasará por el taller para ver si se puede arreglar.&lt;/p&gt;&#xA;&lt;p&gt;El UV82 por alguna razón es un toque peor que el UV5R, tiene peor recepción y sensibilidad en cualquiera de las bandas, y, algunas veces, recepciona mejor estando con la antena para bajo. En fin, a este le anda el FM.   &amp;lt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Con la compra del Alinco (V/U/BA) ahora son 3. Los Baofeng son un clásico, pero ya con mi propia distintiva quería algo de mejor calidad. <!-- raw HTML omitted --></p>
-<p>En resumen, uso los 3.</p>
-<p>De los Baofeng, el UV5R no le anda el chip de FM (no anda/no tiene) por lo que algun día pasará por el taller para ver si se puede arreglar.</p>
-<p>El UV82 por alguna razón es un toque peor que el UV5R, tiene peor recepción y sensibilidad en cualquiera de las bandas, y, algunas veces, recepciona mejor estando con la antena para bajo. En fin, a este le anda el FM.   &lt;</p>
-<p>Finalmente, el nuevo niño de la cuadra, el DJ VX50, es mucho mejor equipo ya al tacto y, además, tiene recepción en la banda área, algo que me interesa.</p>
-<p><img src="../trio.jpg" alt="Trío QRV" title="Trío QRV"></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Ender 3 Neo</title>
-      <link>https://mvietri.dev/blog/entradas/ender3/texto/</link>
-      <pubDate>Tue, 09 May 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/ender3/texto/</guid>
-      <description>&lt;p&gt;Este 2023 viene repuntando. Hoy llegó mi primera impresora 3d, una Ender 3 Neo, despúes de meses en duda de si comprarla o no.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../ender3caja.jpg&#34; alt=&#34;Ender 3 Neo&#34; title=&#34;Ender 3 Neo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Si hay algo bueno que saqué de mi trauma de esperar para comprar algo, es que la versión Neo es la Pro con todas las mejoras que se fueron dando, incluyendo cosas críticas como piezas que ahora son de metal y el auto nivelador ya de fábrica.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Este 2023 viene repuntando. Hoy llegó mi primera impresora 3d, una Ender 3 Neo, despúes de meses en duda de si comprarla o no.</p>
-<p><img src="../ender3caja.jpg" alt="Ender 3 Neo" title="Ender 3 Neo"></p>
-<p>Si hay algo bueno que saqué de mi trauma de esperar para comprar algo, es que la versión Neo es la Pro con todas las mejoras que se fueron dando, incluyendo cosas críticas como piezas que ahora son de metal y el auto nivelador ya de fábrica.</p>
+      <title>Wario</title>
+      <link>https://mvietri.dev/blog/entradas/wario/texto/</link>
+      <pubDate>Sat, 22 Apr 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
+      <guid>https://mvietri.dev/blog/entradas/wario/texto/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../wario.jpg&#34; alt=&#34;Wario&#34; title=&#34;Wario&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Que fruta noble la RG35XX.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="../wario.jpg" alt="Wario" title="Wario"></p>
+<p>Que fruta noble la RG35XX.</p>
 ]]></content:encoded>
     </item>
   </channel>
