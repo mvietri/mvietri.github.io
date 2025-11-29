@@ -13,16 +13,16 @@
     <atom:link href="https://mvietri.dev/blog/tags/certificado/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>30/03/1927 primera comunicación telegráfica al continente</title>
-      <link>https://mvietri.dev/blog/entradas/orcadas/texto/</link>
+      <link>https://mvietri.dev/blog/entradas/orcadas/</link>
       <pubDate>Sat, 30 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/orcadas/texto/</guid>
+      <guid>https://mvietri.dev/blog/entradas/orcadas/</guid>
       <description>&lt;p&gt;Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía. La primera comunicación radiotelegráfica del mundo desde la Antártida también fue un logro argentino.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Este sábado estuve entregando un certificado a un contacto en HF desde LU1DAR en la banda de 40 metros (7 Mhz) Todos los nervios por ser mi primera salida en HF en algo oficial.</p>
 <blockquote>
 <p>El radiooperador Emilio Baldoni había intentado infructuosamente el contacto radiotelegráfico durante once noches. Al fin, ese 30 de marzo, lo logró. “LRT LAT” comenzó a recibir, y después, “LRT LIK”, que significaba que la estación Ushuaia respondía. La primera comunicación radiotelegráfica del mundo desde la Antártida también fue un logro argentino.</p>
 <p><em>extracto de la <a href="https://daa.faa.mil.ar/la-radio-en-la-antartida.html" target="_blank" >dirección de asuntos antárticos</a></em></p>
 </blockquote>
-<p><img src="../orcadas.png" alt="primera transmisión telegŕafica orcadas" title="primera transmisión telegŕafica orcadas"></p>
+<p><img src="/blog/entradas/orcadas/orcadas.png" alt="primera transmisión telegŕafica orcadas" title="primera transmisión telegŕafica orcadas"></p>
 <p>Si bien las condiciones no fueron las mejores, logré hacer contacto con varias estaciones. Todo un logro personal podría decir y estuvo bueno para agarrarle más la mano.</p>
 ]]></content:encoded>
     </item>

@@ -10,18 +10,6 @@
   </url><url>
     <loc>https://mvietri.dev/blog/manifiesto/</loc>
   </url><url>
-    <loc>https://mvietri.dev/blog/tags/humano/</loc>
-    <lastmod>2025-11-28T10:08:20-03:00</lastmod>
-  </url><url>
-    <loc>https://mvietri.dev/blog/tags/</loc>
-    <lastmod>2025-11-28T10:08:20-03:00</lastmod>
-  </url><url>
-    <loc>https://mvietri.dev/blog/entradas/valor/</loc>
-    <lastmod>2025-11-28T10:08:20-03:00</lastmod>
-  </url><url>
-    <loc>https://mvietri.dev/blog/tags/valor/</loc>
-    <lastmod>2025-11-28T10:08:20-03:00</lastmod>
-  </url><url>
     <loc>https://mvietri.dev/blog/tags/ai/</loc>
     <lastmod>2025-11-28T07:20:29-03:00</lastmod>
   </url><url>
@@ -31,10 +19,13 @@
     <loc>https://mvietri.dev/blog/tags/ia/</loc>
     <lastmod>2025-11-28T07:20:29-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/ia/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/ia/</loc>
     <lastmod>2025-11-28T07:20:29-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/inteligencia-artificial/</loc>
+    <lastmod>2025-11-28T07:20:29-03:00</lastmod>
+  </url><url>
+    <loc>https://mvietri.dev/blog/tags/</loc>
     <lastmod>2025-11-28T07:20:29-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/biograf%C3%ADa/</loc>
@@ -49,25 +40,13 @@
     <loc>https://mvietri.dev/blog/tags/libro/</loc>
     <lastmod>2025-09-18T19:40:51-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/sorrentinos/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/sorrentinos/</loc>
     <lastmod>2025-09-18T19:40:51-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/mishidura/</loc>
     <lastmod>2025-09-18T19:40:51-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/irma/texto/</loc>
-    <lastmod>2025-03-12T14:00:27-03:00</lastmod>
-  </url><url>
-    <loc>https://mvietri.dev/blog/tags/irma/</loc>
-    <lastmod>2025-03-12T14:00:27-03:00</lastmod>
-  </url><url>
-    <loc>https://mvietri.dev/blog/tags/khe/</loc>
-    <lastmod>2025-03-12T14:00:27-03:00</lastmod>
-  </url><url>
-    <loc>https://mvietri.dev/blog/tags/test/</loc>
-    <lastmod>2025-03-12T14:00:27-03:00</lastmod>
-  </url><url>
-    <loc>https://mvietri.dev/blog/entradas/terry/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/terry/</loc>
     <lastmod>2024-04-18T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/genio/</loc>
@@ -79,7 +58,7 @@
     <loc>https://mvietri.dev/blog/tags/terry-davis/</loc>
     <lastmod>2024-04-18T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/orcadas/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/orcadas/</loc>
     <lastmod>2024-03-30T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/certificado/</loc>
@@ -97,7 +76,7 @@
     <loc>https://mvietri.dev/blog/tags/radio-aficionado/</loc>
     <lastmod>2024-03-30T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/sdr/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/sdr/</loc>
     <lastmod>2024-03-29T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/sdr/</loc>
@@ -109,7 +88,7 @@
     <loc>https://mvietri.dev/blog/tags/pwnagotchi/</loc>
     <lastmod>2024-03-20T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/pwnagotchi/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/pwnagotchi/</loc>
     <lastmod>2024-03-20T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/raspberry/</loc>
@@ -127,7 +106,7 @@
     <loc>https://mvietri.dev/blog/tags/impreso-3d/</loc>
     <lastmod>2024-03-15T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/mejoras_ender3/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/mejoras_ender3/</loc>
     <lastmod>2024-03-15T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/18650/</loc>
@@ -136,7 +115,7 @@
     <loc>https://mvietri.dev/blog/tags/bater%C3%ADa/</loc>
     <lastmod>2024-02-20T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/powerbank/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/powerbank/</loc>
     <lastmod>2024-02-20T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/poder-ilimitado/</loc>
@@ -148,10 +127,10 @@
     <loc>https://mvietri.dev/blog/tags/agarralo-que-se-cae/</loc>
     <lastmod>2024-01-18T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/boludeces.gcode/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/boludeces.gcode/</loc>
     <lastmod>2024-01-18T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/navidad2/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/navidad2/</loc>
     <lastmod>2023-12-22T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/navidad/</loc>
@@ -160,7 +139,7 @@
     <loc>https://mvietri.dev/blog/tags/handy/</loc>
     <lastmod>2023-11-30T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/trio/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/trio/</loc>
     <lastmod>2023-11-30T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/vamo-lo-pibe/</loc>
@@ -178,10 +157,10 @@
     <loc>https://mvietri.dev/blog/tags/reloj/</loc>
     <lastmod>2023-11-09T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/reloj/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/reloj/</loc>
     <lastmod>2023-11-09T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/sp3rn/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/sp3rn/</loc>
     <lastmod>2023-09-19T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/sp3rn/</loc>
@@ -190,10 +169,10 @@
     <loc>https://mvietri.dev/blog/tags/camiseta/</loc>
     <lastmod>2023-06-16T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/ham/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/ham/</loc>
     <lastmod>2023-06-16T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/vita/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/vita/</loc>
     <lastmod>2023-06-10T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/playstation/</loc>
@@ -208,7 +187,7 @@
     <loc>https://mvietri.dev/blog/tags/3d/</loc>
     <lastmod>2023-05-09T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/ender3/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/ender3/</loc>
     <lastmod>2023-05-09T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/impresion-3d/</loc>
@@ -223,10 +202,10 @@
     <loc>https://mvietri.dev/blog/tags/vamo-lo-pibe/</loc>
     <lastmod>2023-04-22T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/wario/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/wario/</loc>
     <lastmod>2023-04-22T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/covid/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/covid/</loc>
     <lastmod>2022-12-31T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/covid/</loc>
@@ -238,13 +217,13 @@
     <loc>https://mvietri.dev/blog/tags/pandemia/</loc>
     <lastmod>2022-12-31T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/navidad1/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/navidad1/</loc>
     <lastmod>2022-12-22T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/uribelarrea/</loc>
     <lastmod>2022-12-22T03:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://mvietri.dev/blog/entradas/baofeng/texto/</loc>
+    <loc>https://mvietri.dev/blog/entradas/baofeng/</loc>
     <lastmod>2022-09-22T03:00:00-03:00</lastmod>
   </url><url>
     <loc>https://mvietri.dev/blog/tags/baofeng/</loc>

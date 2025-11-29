@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+
+<head>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://mvietri.dev/blog/images/favicon.png" />
+<title>Batería portable con 18650, shield e impresora 3D | Una flecha en la rodilla</title>
+<meta name="title" content="Batería portable con 18650, shield e impresora 3D" />
+<meta name="description" content="Tenía un par de pilas 18650 tiradas en el jonca de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.
+Estuve mirando varias opciones, desde hacer un PCB propio con regulares y coso pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila." />
+<meta name="author" content="" />
+<meta name="keywords" content="batería,18650,impreso 3d,poder ilimitado,portable," />
+
+
+
+
+
+
+  
+  <meta property="og:url" content="https://mvietri.dev/blog/entradas/powerbank/">
+  <meta property="og:site_name" content="Una flecha en la rodilla">
+  <meta property="og:title" content="Batería portable con 18650, shield e impresora 3D">
+  <meta property="og:description" content="Tenía un par de pilas 18650 tiradas en el jonca de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.
+Estuve mirando varias opciones, desde hacer un PCB propio con regulares y coso pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.">
+  <meta property="og:locale" content="es_AR">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="entradas">
+    <meta property="article:published_time" content="2024-02-20T03:00:00-03:00">
+    <meta property="article:modified_time" content="2024-02-20T03:00:00-03:00">
+    <meta property="article:tag" content="Batería">
+    <meta property="article:tag" content="18650">
+    <meta property="article:tag" content="Impreso 3d">
+    <meta property="article:tag" content="Poder Ilimitado">
+    <meta property="article:tag" content="Portable">
+    <meta property="og:image" content="https://mvietri.dev/blog/images/share.webp">
+
+
+  
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://mvietri.dev/blog/images/share.webp">
+  <meta name="twitter:title" content="Batería portable con 18650, shield e impresora 3D">
+  <meta name="twitter:description" content="Tenía un par de pilas 18650 tiradas en el jonca de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.
+Estuve mirando varias opciones, desde hacer un PCB propio con regulares y coso pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.">
+
+
+  
+  
+  <meta itemprop="name" content="Batería portable con 18650, shield e impresora 3D">
+  <meta itemprop="description" content="Tenía un par de pilas 18650 tiradas en el jonca de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.
+Estuve mirando varias opciones, desde hacer un PCB propio con regulares y coso pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.">
+  <meta itemprop="datePublished" content="2024-02-20T03:00:00-03:00">
+  <meta itemprop="dateModified" content="2024-02-20T03:00:00-03:00">
+  <meta itemprop="wordCount" content="202">
+  <meta itemprop="image" content="https://mvietri.dev/blog/images/share.webp">
+  <meta itemprop="keywords" content=",">
+
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  
+  <link href="/blog/original.min.css" rel="stylesheet">
+
+  
+
+  
+
+  
+</head>
+
+<body>
+  <header><a class="skip-link" href="#main-content">Saltar al contenido principal</a>
+
+<a href="/blog/" class="title"><h1>Una flecha en la rodilla</h1></a>
+<nav>
+  <a href="/blog/">Inicio</a>
+
+  <a href="/blog/entradas/">Entradas</a>
+
+  <a href="/blog/manifiesto/">Manifiesto del Selfhosting</a>
+
+<a href='https://mvietri.dev/blog/index.xml'>RSS</a>
+
+
+
+
+
+
+
+</nav>
+</header>
+  <main id="main-content">
+
+<h1>Batería portable con 18650, shield e impresora 3D</h1>
+<p class="byline">
+  <time datetime='2024-02-20' pubdate>
+    20-02-2024
+  </time>
+  
+</p>
+
+<content>
+  <p>Tenía un par de pilas 18650 tiradas en el <em>jonca</em> de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.</p>
+<p>Estuve mirando varias opciones, desde hacer un PCB propio con regulares y <em>coso</em> pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.</p>
+<p>Buscando encontré estos <em>shields</em> que basicamente tienen toda la solución que andaba buscando. Salida USB de 5v con una sola pila mediante un elevador de tensión, además, tiene salidas de 3v y permite cargar la pila usando 5v via un conector micro USB.</p>
+<p>Existen <em>shields</em> de 2 o más pilas pero por un tema de tamaño preferí ir con el de una sola pila. <a href="https://www.thingiverse.com/thing:5242392" target="_blank" >La carcasa</a> la imprimí en 2 colores.</p>
+<p><img src="/blog/entradas/powerbank/powerbank2.jpg" alt="18650 shield" title="Shield 18650 en funcionamiento"></p>
+<p>Súper conforme con el rendimiento tanto en carga como descarga. No soporta carga rápida ni nada, las especificaciones dicen que soporta hasta 2 amperes de salida a 5v (10w) y 1 ampere de salida en la linea de 3v (3w). No probé si es combinable o está fijo por canal.</p>
+<p>Hice dos de estos, uno siempre en la mochila.</p>
+
+</content>
+<p>
+  
+    <a class="blog-tags" href="/blog/tags/bater%C3%ADa/">#batería</a>
+  
+    <a class="blog-tags" href="/blog/tags/18650/">#18650</a>
+  
+    <a class="blog-tags" href="/blog/tags/impreso-3d/">#impreso 3d</a>
+  
+    <a class="blog-tags" href="/blog/tags/poder-ilimitado/">#poder ilimitado</a>
+  
+    <a class="blog-tags" href="/blog/tags/portable/">#portable</a>
+  
+</p>
+
+  <p>
+    <a href='mailto:contacto@mvietri.dev?subject=Responder%20a%20"Bater%c3%ada%20portable%20con%2018650%2c%20shield%20e%20impresora%203D"'>
+      Responder a esta entrada por email ↪
+    </a>
+  </p>
+
+
+  </main>
+  <footer><small>
+  Mauro Vietri (CC BY 4.0) | Hecho con 💟 por <a href="https://github.com/clente/hugo-bearcub" target="_blank" >Bear Cub</a>
+</small></footer>
+
+    
+</body>
+
+</html>

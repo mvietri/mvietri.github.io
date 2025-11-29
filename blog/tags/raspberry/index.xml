@@ -13,9 +13,9 @@
     <atom:link href="https://mvietri.dev/blog/tags/raspberry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pwnagotchi, el amiguito roba handshakes</title>
-      <link>https://mvietri.dev/blog/entradas/pwnagotchi/texto/</link>
+      <link>https://mvietri.dev/blog/entradas/pwnagotchi/</link>
       <pubDate>Wed, 20 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/pwnagotchi/texto/</guid>
+      <guid>https://mvietri.dev/blog/entradas/pwnagotchi/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Pwnagotchi es una &amp;ldquo;IA&amp;rdquo; basada en A2C impulsada por Bettercap y que se ejecuta en una Raspberry Pi Zero W que aprende de su entorno WiFi circundante para maximizar el material clave WPA descifrable que captura (ya sea mediante rastreo pasivo o realizando ataques de desautenticación y asociación). Este material se recopila en disco como archivos PCAP que contienen cualquier forma de protocolo de enlace admitido por hashcat, incluidos protocolos de enlace WPA completos y medios, así como PMKID.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<blockquote>
 <p>Pwnagotchi es una &ldquo;IA&rdquo; basada en A2C impulsada por Bettercap y que se ejecuta en una Raspberry Pi Zero W que aprende de su entorno WiFi circundante para maximizar el material clave WPA descifrable que captura (ya sea mediante rastreo pasivo o realizando ataques de desautenticación y asociación). Este material se recopila en disco como archivos PCAP que contienen cualquier forma de protocolo de enlace admitido por hashcat, incluidos protocolos de enlace WPA completos y medios, así como PMKID.</p>
@@ -27,7 +27,7 @@
 <p>Si bien la página oficial es pwnagotchi.ai, está <a href="https://pwnagotchi.org/" target="_blank" >pwnagotchi.org</a> que tiene información más actualizada asi como imágenes para flashear con modificaciones y soporte para nuevas pantalla/raspberries.</p>
 </blockquote>
 <p>En fin, ninguna cara simpática puede ocultar la misión real del tipo, robar la mayor cantidad de <em>handshakes</em> que pueda. Soporta unos agregados que permiten subir los archivos <em>.pcap</em> directamente a varios sitios que, en un plan gratis, intentan las contraseñas más comunes, pero la idea es que pagues.</p>
-<p><img src="../furbino.jpg" alt="Furbino" title="Furbino"></p>
+<p><img src="/blog/entradas/pwnagotchi/furbino.jpg" alt="Furbino" title="Furbino"></p>
 <p>Si bien el uso del bicho este es cuestionable, es divertido desde el lado técnico. Algo que lleva más materiales que tiempo y despues queda como un adorno como un <em>tamagotchi</em>. Sólo que este si no &lsquo;come&rsquo; redes, no se muere :D.</p>
 <p>Al mío le puse de nombre <code>furbino</code>, que en italiano viene a hacer algo como astuto, pícaro. Tambien es una app de perros o algo así.</p>
 ]]></content:encoded>

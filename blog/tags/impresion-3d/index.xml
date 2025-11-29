@@ -13,12 +13,12 @@
     <atom:link href="https://mvietri.dev/blog/tags/impresion-3d/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ender 3 Neo</title>
-      <link>https://mvietri.dev/blog/entradas/ender3/texto/</link>
+      <link>https://mvietri.dev/blog/entradas/ender3/</link>
       <pubDate>Tue, 09 May 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/ender3/texto/</guid>
-      <description>&lt;p&gt;Este 2023 viene repuntando. Hoy llegó mi primera impresora 3d, una Ender 3 Neo, despúes de meses en duda de si comprarla o no.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../ender3caja.jpg&#34; alt=&#34;Ender 3 Neo&#34; title=&#34;Ender 3 Neo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Si hay algo bueno que saqué de mi trauma de esperar para comprar algo, es que la versión Neo es la Pro con todas las mejoras que se fueron dando, incluyendo cosas críticas como piezas que ahora son de metal y el auto nivelador ya de fábrica.&lt;/p&gt;</description>
+      <guid>https://mvietri.dev/blog/entradas/ender3/</guid>
+      <description>&lt;p&gt;Este 2023 viene repuntando. Hoy llegó mi primera impresora 3d, una Ender 3 Neo, despúes de meses en duda de si comprarla o no.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://mvietri.dev/blog/entradas/ender3/ender3caja.jpg&#34; alt=&#34;Ender 3 Neo&#34; title=&#34;Ender 3 Neo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Si hay algo bueno que saqué de mi trauma de esperar para comprar algo, es que la versión Neo es la Pro con todas las mejoras que se fueron dando, incluyendo cosas críticas como piezas que ahora son de metal y el auto nivelador ya de fábrica.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Este 2023 viene repuntando. Hoy llegó mi primera impresora 3d, una Ender 3 Neo, despúes de meses en duda de si comprarla o no.</p>
-<p><img src="../ender3caja.jpg" alt="Ender 3 Neo" title="Ender 3 Neo"></p>
+<p><img src="/blog/entradas/ender3/ender3caja.jpg" alt="Ender 3 Neo" title="Ender 3 Neo"></p>
 <p>Si hay algo bueno que saqué de mi trauma de esperar para comprar algo, es que la versión Neo es la Pro con todas las mejoras que se fueron dando, incluyendo cosas críticas como piezas que ahora son de metal y el auto nivelador ya de fábrica.</p>
 ]]></content:encoded>
     </item>

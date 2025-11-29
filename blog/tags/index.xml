@@ -9,24 +9,8 @@
     <managingEditor>contacto@mvietri.dev (Mauro Vietri)</managingEditor>
     <webMaster>contacto@mvietri.dev (Mauro Vietri)</webMaster>
     <copyright>Mauro Vietri (CC BY 4.0)</copyright>
-    <lastBuildDate>Fri, 28 Nov 2025 10:08:20 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 07:20:29 -0300</lastBuildDate>
     <atom:link href="https://mvietri.dev/blog/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Humano</title>
-      <link>https://mvietri.dev/blog/tags/humano/</link>
-      <pubDate>Fri, 28 Nov 2025 10:08:20 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/tags/humano/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Valor</title>
-      <link>https://mvietri.dev/blog/tags/valor/</link>
-      <pubDate>Fri, 28 Nov 2025 10:08:20 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/tags/valor/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
     <item>
       <title>Ai</title>
       <link>https://mvietri.dev/blog/tags/ai/</link>
@@ -96,30 +80,6 @@
       <link>https://mvietri.dev/blog/tags/mishidura/</link>
       <pubDate>Thu, 18 Sep 2025 19:40:51 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
       <guid>https://mvietri.dev/blog/tags/mishidura/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Irma</title>
-      <link>https://mvietri.dev/blog/tags/irma/</link>
-      <pubDate>Wed, 12 Mar 2025 14:00:27 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/tags/irma/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Khe</title>
-      <link>https://mvietri.dev/blog/tags/khe/</link>
-      <pubDate>Wed, 12 Mar 2025 14:00:27 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/tags/khe/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>https://mvietri.dev/blog/tags/test/</link>
-      <pubDate>Wed, 12 Mar 2025 14:00:27 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/tags/test/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

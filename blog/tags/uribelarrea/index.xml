@@ -13,11 +13,11 @@
     <atom:link href="https://mvietri.dev/blog/tags/uribelarrea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feliz Navidad</title>
-      <link>https://mvietri.dev/blog/entradas/navidad1/texto/</link>
+      <link>https://mvietri.dev/blog/entradas/navidad1/</link>
       <pubDate>Thu, 22 Dec 2022 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/navidad1/texto/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../navidad.jpg&#34; alt=&#34;Navidad Uribelarrea&#34; title=&#34;Navidad Uribelarrea&#34;&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><img src="../navidad.jpg" alt="Navidad Uribelarrea" title="Navidad Uribelarrea"></p>
+      <guid>https://mvietri.dev/blog/entradas/navidad1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://mvietri.dev/blog/entradas/navidad1/navidad.jpg&#34; alt=&#34;Navidad Uribelarrea&#34; title=&#34;Navidad Uribelarrea&#34;&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="/blog/entradas/navidad1/navidad.jpg" alt="Navidad Uribelarrea" title="Navidad Uribelarrea"></p>
 ]]></content:encoded>
     </item>
   </channel>

@@ -13,9 +13,9 @@
     <atom:link href="https://mvietri.dev/blog/tags/impreso-3d/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Te llegó la hora, Ender 3</title>
-      <link>https://mvietri.dev/blog/entradas/mejoras_ender3/texto/</link>
+      <link>https://mvietri.dev/blog/entradas/mejoras_ender3/</link>
       <pubDate>Fri, 15 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/mejoras_ender3/texto/</guid>
+      <guid>https://mvietri.dev/blog/entradas/mejoras_ender3/</guid>
       <description>&lt;p&gt;Ya pasó mucha agua debajo del puente y finalmente llegó el día de hacerle un mantenimiento a la impresora 3D. Busqué en internet qué mejoras hay para la impresora, y algo que me gusta de este modelo es que es una de las impresoras de código abierto más vendidas, por lo que hay mods y trucos por toda la web.&lt;/p&gt;&#xA;&lt;p&gt;Así que manos a la obra, imprimir varias mejor que fui recolectando y de paso, hacemos un mantenimiento general.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Ya pasó mucha agua debajo del puente y finalmente llegó el día de hacerle un mantenimiento a la impresora 3D. Busqué en internet qué mejoras hay para la impresora, y algo que me gusta de este modelo es que es una de las impresoras de código abierto más vendidas, por lo que hay mods y trucos por toda la web.</p>
 <p>Así que manos a la obra, imprimir varias mejor que fui recolectando y de paso, hacemos un mantenimiento general.</p>
@@ -33,7 +33,7 @@
 <li><a href="https://www.thingiverse.com/thing:3209211" target="_blank" >https://www.thingiverse.com/thing:3209211</a></li>
 <li><a href="https://www.thingiverse.com/thing:3302814" target="_blank" >https://www.thingiverse.com/thing:3302814</a></li>
 </ul>
-<p><img src="../ender_terminada.png" alt="Ender upgradeada" title="Ender upgradeada"></p>
+<p><img src="/blog/entradas/mejoras_ender3/ender_terminada.png" alt="Ender upgradeada" title="Ender upgradeada"></p>
 <blockquote>
 <p>Todos son practicamente <em>plug &amp; play</em> salvo la barra led que llevó su trabajito aparte.
 Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA azul de Grilon3 para darle un <em>acento</em> a la ender.</p>
@@ -42,24 +42,24 @@ Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA
     </item>
     <item>
       <title>Batería portable con 18650, shield e impresora 3D</title>
-      <link>https://mvietri.dev/blog/entradas/powerbank/texto/</link>
+      <link>https://mvietri.dev/blog/entradas/powerbank/</link>
       <pubDate>Tue, 20 Feb 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/powerbank/texto/</guid>
+      <guid>https://mvietri.dev/blog/entradas/powerbank/</guid>
       <description>&lt;p&gt;Tenía un par de pilas 18650 tiradas en el &lt;em&gt;jonca&lt;/em&gt; de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.&lt;/p&gt;&#xA;&lt;p&gt;Estuve mirando varias opciones, desde hacer un PCB propio con regulares y &lt;em&gt;coso&lt;/em&gt; pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Tenía un par de pilas 18650 tiradas en el <em>jonca</em> de las cosas y me pareció copado hacer unas baterías portables, para cuando mi amigo íntimo Edesur me abandona y para mis proyectos, los cuales siempre necesitan 5v o 3v.</p>
 <p>Estuve mirando varias opciones, desde hacer un PCB propio con regulares y <em>coso</em> pero tambien me gustaba la idea que se pueda cargar desde ahí mismo, sin tener que retirar la pila.</p>
 <p>Buscando encontré estos <em>shields</em> que basicamente tienen toda la solución que andaba buscando. Salida USB de 5v con una sola pila mediante un elevador de tensión, además, tiene salidas de 3v y permite cargar la pila usando 5v via un conector micro USB.</p>
 <p>Existen <em>shields</em> de 2 o más pilas pero por un tema de tamaño preferí ir con el de una sola pila. <a href="https://www.thingiverse.com/thing:5242392" target="_blank" >La carcasa</a> la imprimí en 2 colores.</p>
-<p><img src="../powerbank2.jpg" alt="18650 shield" title="Shield 18650 en funcionamiento"></p>
+<p><img src="/blog/entradas/powerbank/powerbank2.jpg" alt="18650 shield" title="Shield 18650 en funcionamiento"></p>
 <p>Súper conforme con el rendimiento tanto en carga como descarga. No soporta carga rápida ni nada, las especificaciones dicen que soporta hasta 2 amperes de salida a 5v (10w) y 1 ampere de salida en la linea de 3v (3w). No probé si es combinable o está fijo por canal.</p>
 <p>Hice dos de estos, uno siempre en la mochila.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Boludeces.gcode</title>
-      <link>https://mvietri.dev/blog/entradas/boludeces.gcode/texto/</link>
+      <link>https://mvietri.dev/blog/entradas/boludeces.gcode/</link>
       <pubDate>Thu, 18 Jan 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/boludeces.gcode/texto/</guid>
+      <guid>https://mvietri.dev/blog/entradas/boludeces.gcode/</guid>
       <description>&lt;p&gt;Como le estoy agarrando la mano a esto de imprimir en 3D. Todo un mundo nuevo con los slicers, el gcode, esto y lo otro. Pero voy bien, estoy conociendo los límites de la ender, el que se puede hacer y el que no.&lt;/p&gt;&#xA;&lt;p&gt;Desde que tengo la impresora, imprimí cosas para el baño, soportes para los cables atrás de la tele, stands de controles de joystics, portalapiz, porta usb y memorias sd. Imprimí un &lt;em&gt;coso&lt;/em&gt; para apoyar la laptop totalmente al pedo pero ahí está. Imprimí figurines e imprimí carcasas para todos mis SBCs. Imprimí llaveros y colgantes, posavasos, stand para el celular y para los auris, imprimí rejillas para la bacha de la cocina, etc, etc.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Como le estoy agarrando la mano a esto de imprimir en 3D. Todo un mundo nuevo con los slicers, el gcode, esto y lo otro. Pero voy bien, estoy conociendo los límites de la ender, el que se puede hacer y el que no.</p>
 <p>Desde que tengo la impresora, imprimí cosas para el baño, soportes para los cables atrás de la tele, stands de controles de joystics, portalapiz, porta usb y memorias sd. Imprimí un <em>coso</em> para apoyar la laptop totalmente al pedo pero ahí está. Imprimí figurines e imprimí carcasas para todos mis SBCs. Imprimí llaveros y colgantes, posavasos, stand para el celular y para los auris, imprimí rejillas para la bacha de la cocina, etc, etc.</p>

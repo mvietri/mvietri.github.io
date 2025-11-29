@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+
+<head>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://mvietri.dev/blog/images/favicon.png" />
+<title>IA | Una flecha en la rodilla</title>
+<meta name="title" content="IA" />
+<meta name="description" content="El término de I.A. (Inteligencia Artificial, A.I.) debería estar en los grandes libros de marketing despúes del capítulo, mejor dichos capítulos, dedicado al Yogurt. Al fin y al cabo, es la segunda vez que los marketineros nos venden como algo nuevo, novedoso y que de alguna forma necesitas comer todos los días, algo desabrido, algo que sobraba, algo que iban a tirar.
+Lo que los mortales mal conocemos como IA, por que de nuevo, es un gran título marketinero, en su gran mayoría son los LLM (Modelos Grandes de Lenguajes) que se basa en una entrada (input), en un pedido (prompt) y una salida (output).
+Los LLM predicen el texto (el siguiente token al token anterior) que más sentido tenga y así van armando la salida. ¿Tiene sentido lo que genera? si y no, los LLM no piensan (aunque OpenIA, Google y otros le digan thinking al igual que si fuese una CPU). Los LLMs públicos están entrenados por libros, enciclopedias, páginas autorizadas (como sitios de noticias, etc), entonces si yo le &ldquo;pregunto&rdquo; a una IA ¿Qué es la calor? va a separar todo eso en ¿Qué, es, la, calor? y va a darle peso a cada parte. &ldquo;¿Qué&rdquo; -el usuario quiere obtener información sobre lo que viene despúes-, &ldquo;calor?&rdquo; -el usuario escribió calor, primero me voy a fijar de donde me escribe para tener en cuenta la cultura, la ubicación, su forma de expresión, y despúes le voy a devolver una búsqueda de Google pero con más parafernalias-. [https://letmegooglethat.com/](La tostadora se rie de fondo.)" />
+<meta name="author" content="" />
+<meta name="keywords" content="ia,ai,inteligencia artificial,hehe," />
+
+
+
+
+
+
+  
+  <meta property="og:url" content="https://mvietri.dev/blog/entradas/ia/">
+  <meta property="og:site_name" content="Una flecha en la rodilla">
+  <meta property="og:title" content="IA">
+  <meta property="og:description" content="El término de I.A. (Inteligencia Artificial, A.I.) debería estar en los grandes libros de marketing despúes del capítulo, mejor dichos capítulos, dedicado al Yogurt. Al fin y al cabo, es la segunda vez que los marketineros nos venden como algo nuevo, novedoso y que de alguna forma necesitas comer todos los días, algo desabrido, algo que sobraba, algo que iban a tirar.
+Lo que los mortales mal conocemos como IA, por que de nuevo, es un gran título marketinero, en su gran mayoría son los LLM (Modelos Grandes de Lenguajes) que se basa en una entrada (input), en un pedido (prompt) y una salida (output). Los LLM predicen el texto (el siguiente token al token anterior) que más sentido tenga y así van armando la salida. ¿Tiene sentido lo que genera? si y no, los LLM no piensan (aunque OpenIA, Google y otros le digan thinking al igual que si fuese una CPU). Los LLMs públicos están entrenados por libros, enciclopedias, páginas autorizadas (como sitios de noticias, etc), entonces si yo le “pregunto” a una IA ¿Qué es la calor? va a separar todo eso en ¿Qué, es, la, calor? y va a darle peso a cada parte. “¿Qué” -el usuario quiere obtener información sobre lo que viene despúes-, “calor?” -el usuario escribió calor, primero me voy a fijar de donde me escribe para tener en cuenta la cultura, la ubicación, su forma de expresión, y despúes le voy a devolver una búsqueda de Google pero con más parafernalias-. [https://letmegooglethat.com/](La tostadora se rie de fondo.)">
+  <meta property="og:locale" content="es_AR">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="entradas">
+    <meta property="article:published_time" content="2025-11-28T07:20:29-03:00">
+    <meta property="article:modified_time" content="2025-11-28T07:20:29-03:00">
+    <meta property="article:tag" content="Ia">
+    <meta property="article:tag" content="Ai">
+    <meta property="article:tag" content="Inteligencia Artificial">
+    <meta property="article:tag" content="Hehe">
+    <meta property="og:image" content="https://mvietri.dev/blog/images/share.webp">
+
+
+  
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://mvietri.dev/blog/images/share.webp">
+  <meta name="twitter:title" content="IA">
+  <meta name="twitter:description" content="El término de I.A. (Inteligencia Artificial, A.I.) debería estar en los grandes libros de marketing despúes del capítulo, mejor dichos capítulos, dedicado al Yogurt. Al fin y al cabo, es la segunda vez que los marketineros nos venden como algo nuevo, novedoso y que de alguna forma necesitas comer todos los días, algo desabrido, algo que sobraba, algo que iban a tirar.
+Lo que los mortales mal conocemos como IA, por que de nuevo, es un gran título marketinero, en su gran mayoría son los LLM (Modelos Grandes de Lenguajes) que se basa en una entrada (input), en un pedido (prompt) y una salida (output). Los LLM predicen el texto (el siguiente token al token anterior) que más sentido tenga y así van armando la salida. ¿Tiene sentido lo que genera? si y no, los LLM no piensan (aunque OpenIA, Google y otros le digan thinking al igual que si fuese una CPU). Los LLMs públicos están entrenados por libros, enciclopedias, páginas autorizadas (como sitios de noticias, etc), entonces si yo le “pregunto” a una IA ¿Qué es la calor? va a separar todo eso en ¿Qué, es, la, calor? y va a darle peso a cada parte. “¿Qué” -el usuario quiere obtener información sobre lo que viene despúes-, “calor?” -el usuario escribió calor, primero me voy a fijar de donde me escribe para tener en cuenta la cultura, la ubicación, su forma de expresión, y despúes le voy a devolver una búsqueda de Google pero con más parafernalias-. [https://letmegooglethat.com/](La tostadora se rie de fondo.)">
+
+
+  
+  
+  <meta itemprop="name" content="IA">
+  <meta itemprop="description" content="El término de I.A. (Inteligencia Artificial, A.I.) debería estar en los grandes libros de marketing despúes del capítulo, mejor dichos capítulos, dedicado al Yogurt. Al fin y al cabo, es la segunda vez que los marketineros nos venden como algo nuevo, novedoso y que de alguna forma necesitas comer todos los días, algo desabrido, algo que sobraba, algo que iban a tirar.
+Lo que los mortales mal conocemos como IA, por que de nuevo, es un gran título marketinero, en su gran mayoría son los LLM (Modelos Grandes de Lenguajes) que se basa en una entrada (input), en un pedido (prompt) y una salida (output). Los LLM predicen el texto (el siguiente token al token anterior) que más sentido tenga y así van armando la salida. ¿Tiene sentido lo que genera? si y no, los LLM no piensan (aunque OpenIA, Google y otros le digan thinking al igual que si fuese una CPU). Los LLMs públicos están entrenados por libros, enciclopedias, páginas autorizadas (como sitios de noticias, etc), entonces si yo le “pregunto” a una IA ¿Qué es la calor? va a separar todo eso en ¿Qué, es, la, calor? y va a darle peso a cada parte. “¿Qué” -el usuario quiere obtener información sobre lo que viene despúes-, “calor?” -el usuario escribió calor, primero me voy a fijar de donde me escribe para tener en cuenta la cultura, la ubicación, su forma de expresión, y despúes le voy a devolver una búsqueda de Google pero con más parafernalias-. [https://letmegooglethat.com/](La tostadora se rie de fondo.)">
+  <meta itemprop="datePublished" content="2025-11-28T07:20:29-03:00">
+  <meta itemprop="dateModified" content="2025-11-28T07:20:29-03:00">
+  <meta itemprop="wordCount" content="917">
+  <meta itemprop="image" content="https://mvietri.dev/blog/images/share.webp">
+  <meta itemprop="keywords" content=",">
+
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  
+  <link href="/blog/original.min.css" rel="stylesheet">
+
+  
+
+  
+
+  
+</head>
+
+<body>
+  <header><a class="skip-link" href="#main-content">Saltar al contenido principal</a>
+
+<a href="/blog/" class="title"><h1>Una flecha en la rodilla</h1></a>
+<nav>
+  <a href="/blog/">Inicio</a>
+
+  <a href="/blog/entradas/">Entradas</a>
+
+  <a href="/blog/manifiesto/">Manifiesto del Selfhosting</a>
+
+<a href='https://mvietri.dev/blog/index.xml'>RSS</a>
+
+
+
+
+
+
+
+</nav>
+</header>
+  <main id="main-content">
+
+<h1>IA</h1>
+<p class="byline">
+  <time datetime='2025-11-28' pubdate>
+    28-11-2025
+  </time>
+  
+</p>
+
+<content>
+  <p>El término de <strong>I.A. (Inteligencia Artificial, A.I.)</strong> debería estar en los grandes <strong>libros de marketing</strong> despúes del capítulo, mejor dichos capítulos, dedicado al Yogurt. Al fin y al cabo, es la segunda vez que los marketineros nos venden como algo nuevo, novedoso y que de alguna forma necesitas comer todos los días, algo desabrido, algo que sobraba, algo que iban a tirar.</p>
+<p>Lo que los mortales mal conocemos como IA, por que de nuevo, es un gran título marketinero, en su gran mayoría son los LLM (Modelos Grandes de Lenguajes) que se basa en una entrada (input), en un pedido (prompt) y una salida (output).
+Los LLM predicen el texto (el siguiente token al token anterior) que más sentido tenga y así van armando la salida. ¿Tiene sentido lo que genera? si y no, los LLM no piensan (aunque OpenIA, Google y otros le digan <em>thinking</em> al igual que si fuese una CPU). Los LLMs públicos están entrenados por libros, enciclopedias, páginas autorizadas (como sitios de noticias, etc), entonces si yo le &ldquo;pregunto&rdquo; a una IA <em>¿Qué es la calor?</em> va a separar todo eso en <em>¿Qué, es, la, calor?</em> y va a darle peso a cada parte. &ldquo;¿Qué&rdquo; -el usuario quiere obtener información sobre lo que viene despúes-, &ldquo;calor?&rdquo; -el usuario escribió <em>calor</em>, primero me voy a fijar de donde me escribe para tener en cuenta la cultura, la ubicación, su forma de expresión, y despúes le voy a devolver una búsqueda de Google pero con más parafernalias-. [https://letmegooglethat.com/](<em>La tostadora se rie de fondo.</em>)</p>
+<p>Los LLMs están por todos lados, nos lo meten desde que nos levantamos hasta que nos vamos a dormir, en escencias del marketing, es el nuevo Yogurt.</p>
+<p>Ahora bien, ¿es esto nuevo? ¿nos vamos a morir todos? a lo que la IA respondería, no y si, respectivamente. El humano vive en la humanidad y la humanidad se repite y se repite y se repite como estas últimas palabras.</p>
+<p><strong>Cuando se descubrió el fuego</strong>: hubo humanos que se quemaron al tratar de dominarlo, otros pensaron que era magia negra y se suicidaron, otros le tenían miedo, otros fascinación, otros lo usaron para cocinar, otros lo usaron para calentar metales al rojo vivo y forjar herramientas, otros lo usaron para iluminar -y con ello uno de los hitos más grande la historia, el aprovechamiento de la noche, se crean los primeros boliches lo que permite la creación de la <a href="https://es.wikipedia.org/wiki/Hidromiel" title="Hidromiel en Wikipedia" target="_blank" >hidromiel</a>-, otros lo usaron para matar, otros lo usaron para ganar tiempo, otros lo usaron para delinquir.</p>
+<p><em>Sin embargo el fuego prevaleció, desde el momento que se hizo popular y se fue domesticando, ninguno de los ejemplos anteriores dejaron de existir, y hoy sin fuego no sobrevivimos ni 2 meses.</em></p>
+<p><strong>Cuando la ARPANET con sus e-mails y BBS se hizo pública</strong>: hubo humanos que se nunca se interesaron, otros pensaron que era magia negra y se suicidaron, otros le tenían miedo, otros fascinación, otros lo usaron para estudiar, otros lo usaron para crear herramientas, otros para comunicarse, otros lo usaron para matar, otros lo usaron para ganar tiempo, otros lo usaron para delinquir.</p>
+<p><em>Sin embargo el internet prevaleció, desde el momento que se hizo popular y se fue expandiendo, ninguno de los ejemplos anteriores dejaron de existir, y hoy sin internet no sobrevivimos ni 2 semanas.</em></p>
+<p><strong>Cuando la IA con sus LLMs falopas alcanzó el punto de comercialización hacia usuarios finales</strong>: hubo humanos que se nunca se interesaron, otros pensaron que era magia negra y se suicidaron, otros le tienen miedo, otros fascinación, otros la usan para estudiar, otros la usan para crear herramientas, otros para comunicarse, para tener compañía, <a href="https://es.wikipedia.org/wiki/Narcisismo" title="Narcisismo en Wikipedia" target="_blank" >para saber que siempre tienen razón</a>, para matar, para ganar tiempo, para delinquir, para mentir en el CV, para sacarse una duda aunque la respuesta <a href="https://vandal.elespanol.com/random/sam-altman-de-openai-confirma-lo-que-todos-temen-no-deberiamos-confiar-tanto-en-una-tecnologia-que-alucina-como-la-ia/35086.html" title="Confirmado, la IA Alucina" target="_blank" >sea no del todo exacta</a>.</p>
+<p><em>Sin embargo la IA prevalece, desde el momento que se hizo popular y se fue expandiendo, ninguno de los ejemplos anteriores han de existir, de hecho se profileran cada día más, y hoy sin IA no sobrevivimos ni 2 días.</em></p>
+<h2 id="la-paranoia">La Paranoia</h2>
+<p>El <a href="https://i.imgflip.com/1itoun.jpg" target="_blank" >mayor &ldquo;problema&rdquo;</a> de la IA tal como nosotros la conocemos, que no es ni el 10% de la verdadera IA que están cocinando, es la ambigüedad y el sesgo. Ambas son característica muy humana que viene del pensamiento científico, de la cultura y de la experiencia de vida.</p>
+<p>La ambigüedad no existe para la IA. Ninguna IA -hoy- es lo suficientemente <em>Inteligente</em> o <em>Humana</em> (<a href="https://www.youtube.com/watch?v=5hUwg1e1xh4" title="Viejas Locas - Lo Artesanal" target="_blank" >de ahí lo artificial</a>) cómo para cuestionarnos la consulta. La IA llena los espacios en blanco con lo más politicamente correcto que encuentre.
+Si le consulto del clima, va a detectar (o preguntar) dónde estoy pero si le pregunto algo que sea menos granual y yo no le especifico nada, va a llenar los interrogados con su propio entrenamiento.</p>
+<p>Acá entra el sesgo, la hermana diábolica. El sesgo ya es lo que hace a la competencia, es lo que mantiene a las empresas peleandose. Tenemos la IA neutra, la que te dice que los humanos deben morir, la &lsquo;insegura&rsquo; que te dice que chequees con un profesional, la que te chamuya como vendedor de enciclopedias, etc.</p>
+<p>Entonces OpenAI no te va a hablar mal de EEUU y Deepseek no te va hablar mal del comunismo; y así con todas las demás. Por suerte hay modelos Open Source como Llama que permite a la comunidad expandir, editar o des-alinear (t.c.c. quitarle la censura).</p>
+<h2 id="y-entonces">¿Y entonces?</h2>
+<p><img src="/blog/entradas/ia/reglas.jpg" alt="Directiva 4: Clasificada" title="Directiva 4: Clasificada"></p>
+<hr>
+<p>Fuego, Internet, IA, Gabbo, Yogurt, RoboCop, ARPANET, los Sorrentinos. <em>Todo está conectado entre sí</em>.</p>
+
+</content>
+<p>
+  
+    <a class="blog-tags" href="/blog/tags/ia/">#ia</a>
+  
+    <a class="blog-tags" href="/blog/tags/ai/">#ai</a>
+  
+    <a class="blog-tags" href="/blog/tags/inteligencia-artificial/">#inteligencia artificial</a>
+  
+    <a class="blog-tags" href="/blog/tags/hehe/">#hehe</a>
+  
+</p>
+
+  <p>
+    <a href='mailto:contacto@mvietri.dev?subject=Responder%20a%20"IA"'>
+      Responder a esta entrada por email ↪
+    </a>
+  </p>
+
+
+  </main>
+  <footer><small>
+  Mauro Vietri (CC BY 4.0) | Hecho con 💟 por <a href="https://github.com/clente/hugo-bearcub" target="_blank" >Bear Cub</a>
+</small></footer>
+
+    
+</body>
+
+</html>

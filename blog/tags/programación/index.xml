@@ -13,23 +13,23 @@
     <atom:link href="https://mvietri.dev/blog/tags/programaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relojino</title>
-      <link>https://mvietri.dev/blog/entradas/reloj/texto/</link>
+      <link>https://mvietri.dev/blog/entradas/reloj/</link>
       <pubDate>Thu, 09 Nov 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/reloj/texto/</guid>
-      <description>&lt;p&gt;Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.&lt;/p&gt;&#xA;&lt;p&gt;Así que revolviendo el &lt;em&gt;jonca&lt;/em&gt; de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.&lt;/p&gt;&#xA;&lt;p&gt;La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../reloj.jpg&#34; alt=&#34;Reloj&#34; title=&#34;Reloj&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.&lt;/p&gt;</description>
+      <guid>https://mvietri.dev/blog/entradas/reloj/</guid>
+      <description>&lt;p&gt;Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.&lt;/p&gt;&#xA;&lt;p&gt;Así que revolviendo el &lt;em&gt;jonca&lt;/em&gt; de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.&lt;/p&gt;&#xA;&lt;p&gt;La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://mvietri.dev/blog/entradas/reloj/reloj.jpg&#34; alt=&#34;Reloj&#34; title=&#34;Reloj&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Decile paranoia pero creo que mi despertador chino me espía. No tiene internet ni chip para almacenar cosas, pero siento que me espía.</p>
 <p>Así que revolviendo el <em>jonca</em> de las cosas, encontré una matrix de leds de 4x4x8. Agarré el arduino, unos dupont, un modulo RTC y a codear.</p>
 <p>La base salió andando y con todo tirado así en cuestión de horas tenía un reloj 100% mío.</p>
-<p><img src="../reloj.jpg" alt="Reloj" title="Reloj"></p>
+<p><img src="/blog/entradas/reloj/reloj.jpg" alt="Reloj" title="Reloj"></p>
 <p>Le agregué un sensor de temperatura/húmedad para que no sea tan aburrido pero por ahora solo está implementada la parte del reloj.</p>
 <p>El código está en mi <a href="https://github.com/mvietri/clock" target="_blank" >github</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>&#39;Cable&#39; de programación para Baofeng</title>
-      <link>https://mvietri.dev/blog/entradas/baofeng/texto/</link>
+      <link>https://mvietri.dev/blog/entradas/baofeng/</link>
       <pubDate>Thu, 22 Sep 2022 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/baofeng/texto/</guid>
+      <guid>https://mvietri.dev/blog/entradas/baofeng/</guid>
       <description>&lt;p&gt;Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con &lt;a href=&#34;https://chirpmyradio.com/projects/chirp/wiki/Home&#34; target=&#34;_blank&#34; &gt;CHIRP&lt;/a&gt; usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Del jack más grueso, la base del pin es TX (RX en el Arduino/USB).&lt;/p&gt;&#xA;&lt;p&gt;Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Tanto el Baofeng UV5R que tengo como el UV82 se pueden programar con <a href="https://chirpmyradio.com/projects/chirp/wiki/Home" target="_blank" >CHIRP</a> usando un cable USB que tiene 2 terminales distintos del tipo jack. Un terminal se conecta a la entrada de micrófono del handy y la otra terminal a la salida de auricular.</p>
 <blockquote>
@@ -37,12 +37,12 @@
 <p>Del jack más grueso, la base es tierra (GND) y el del medio es RX (TX en el Arduino/USB)</p>
 </blockquote>
 <p>El cable es muy básico y comprar uno no tiene mucho sentido salvo que no tengas ni un arduino ni un conversor USB-TTL.</p>
-<p><img src="../arduino_serial1.png" alt="Arduino UNO" title="Conexión serie en arduino"></p>
+<p><img src="/blog/entradas/baofeng/arduino_serial1.png" alt="Arduino UNO" title="Conexión serie en arduino"></p>
 <p>Para el arduino la conexión es sencilla. El arduino (Arduino UNO en este caso) tiene un puerto serie integrado en los pins 0 y 1.</p>
 <blockquote>
 <p>En el caso del Arduino hay que dejar constantemente el pin de reset a tierra para que el arduino no inicie el microcontrolador. Sólo vamos a usar la parte serie de la placa.</p>
 </blockquote>
-<p><img src="../arduino_serial2.jpg" alt="USBTTL" title="Conexión serie por usb ttl"></p>
+<p><img src="/blog/entradas/baofeng/arduino_serial2.jpg" alt="USBTTL" title="Conexión serie por usb ttl"></p>
 <p>Para el caso del adaptador USB-Serie, es todo más directo aún. Se conecta Tierra (GND), Transmisión (TXD) y Recepción (RXD) desde el adaptador al cable armado.</p>
 <blockquote>
 <p>Vale aclaración que en transmisiones serial los conectores van siempre cruzados. RX es el TX del otro dispositivo y TX es el RX.</p>

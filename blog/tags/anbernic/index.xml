@@ -13,11 +13,11 @@
     <atom:link href="https://mvietri.dev/blog/tags/anbernic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wario</title>
-      <link>https://mvietri.dev/blog/entradas/wario/texto/</link>
+      <link>https://mvietri.dev/blog/entradas/wario/</link>
       <pubDate>Sat, 22 Apr 2023 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/wario/texto/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../wario.jpg&#34; alt=&#34;Wario&#34; title=&#34;Wario&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Que fruta noble la RG35XX.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><img src="../wario.jpg" alt="Wario" title="Wario"></p>
+      <guid>https://mvietri.dev/blog/entradas/wario/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://mvietri.dev/blog/entradas/wario/wario.jpg&#34; alt=&#34;Wario&#34; title=&#34;Wario&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Que fruta noble la RG35XX.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="/blog/entradas/wario/wario.jpg" alt="Wario" title="Wario"></p>
 <p>Que fruta noble la RG35XX.</p>
 ]]></content:encoded>
     </item>

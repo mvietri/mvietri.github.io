@@ -13,9 +13,9 @@
     <atom:link href="https://mvietri.dev/blog/tags/actualizacion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Te llegó la hora, Ender 3</title>
-      <link>https://mvietri.dev/blog/entradas/mejoras_ender3/texto/</link>
+      <link>https://mvietri.dev/blog/entradas/mejoras_ender3/</link>
       <pubDate>Fri, 15 Mar 2024 03:00:00 -0300</pubDate><author>contacto@mvietri.dev (Mauro Vietri)</author>
-      <guid>https://mvietri.dev/blog/entradas/mejoras_ender3/texto/</guid>
+      <guid>https://mvietri.dev/blog/entradas/mejoras_ender3/</guid>
       <description>&lt;p&gt;Ya pasó mucha agua debajo del puente y finalmente llegó el día de hacerle un mantenimiento a la impresora 3D. Busqué en internet qué mejoras hay para la impresora, y algo que me gusta de este modelo es que es una de las impresoras de código abierto más vendidas, por lo que hay mods y trucos por toda la web.&lt;/p&gt;&#xA;&lt;p&gt;Así que manos a la obra, imprimir varias mejor que fui recolectando y de paso, hacemos un mantenimiento general.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Ya pasó mucha agua debajo del puente y finalmente llegó el día de hacerle un mantenimiento a la impresora 3D. Busqué en internet qué mejoras hay para la impresora, y algo que me gusta de este modelo es que es una de las impresoras de código abierto más vendidas, por lo que hay mods y trucos por toda la web.</p>
 <p>Así que manos a la obra, imprimir varias mejor que fui recolectando y de paso, hacemos un mantenimiento general.</p>
@@ -33,7 +33,7 @@
 <li><a href="https://www.thingiverse.com/thing:3209211" target="_blank" >https://www.thingiverse.com/thing:3209211</a></li>
 <li><a href="https://www.thingiverse.com/thing:3302814" target="_blank" >https://www.thingiverse.com/thing:3302814</a></li>
 </ul>
-<p><img src="../ender_terminada.png" alt="Ender upgradeada" title="Ender upgradeada"></p>
+<p><img src="/blog/entradas/mejoras_ender3/ender_terminada.png" alt="Ender upgradeada" title="Ender upgradeada"></p>
 <blockquote>
 <p>Todos son practicamente <em>plug &amp; play</em> salvo la barra led que llevó su trabajito aparte.
 Todo (menos la tapa del LCD que me dio paja cambiar de filamento) impreso en PLA azul de Grilon3 para darle un <em>acento</em> a la ender.</p>
